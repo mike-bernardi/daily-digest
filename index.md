@@ -1,14 +1,16 @@
-# 🌅 My Personal Morning Briefing
+# 🌅 My Daily Briefing - July 30, 2026
 
-Welcome to your customized news dashboard. Tap any headline to jump straight to the source material.
+Welcome back! Here is your private, automated dashboard updated live on your device.
 
-## 🏛️ National News & Politics
-* **[Axios Politics Dashboard](https://axios.com)** — Live stream of breaking political reporting and briefs.
-* **[Politico Policy Tracker](https://politico.com)** — Deep dives into national legislative changes and federal policy updates.
+## 🏛️ National News (Politico & Axios)
 
-## ✈️ Points, Miles & Travel
-* **[The Points Guy Live Feed](https://thepointsguy.com)** — Real-time updates on credit card sign-up bonuses, airline mileage valuation changes, and travel news.
+
+
+## ✈️ Points, Miles & Travel (The Points Guy)
+
 
 ## 🎭 What to Do in Chicago
-* **[Choose Chicago Calendar](https://choosechicago.com)** — Local concert tours, theater openings, street festivals, and seasonal events in the city.
-* **[Do312 Chicago Listings](https://do312.com)** — Local community music listings and hidden neighborhood happenings.
+* **[Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)** — Featured local Chicago community happening and event tour.
+* **[Always see something new at Lincoln Park Zoo](https://www.choosechicago.com/blog/always-see-something-new-at-lincoln-park-zoo/)** — Featured local Chicago community happening and event tour.
+* **[A tour through Chicago’s historic Kenwood neighborhood: Obama family home and beyond](https://www.choosechicago.com/blog/neighborhoods-blog/take-a-walking-tour-of-chicagos-kenwood/)** — Featured local Chicago community happening and event tour.
+* **[Things to do in downtown Chicago](https://www.choosechicago.com/blog/neighborhoods-blog/things-to-do-downtown-chicago/)** — Featured local Chicago community happening and event tour.
