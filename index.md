@@ -5,21 +5,13 @@
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
 ## Politico (Most Popular)
-* Connection error (403) fetching updates.
+* Processing pipeline clearing cache.
 
-## Axios (Trending news)
-* Connection error (403) fetching updates.
+## Axios (Trending News)
+* Processing pipeline clearing cache.
 
 ## The Points Guy (Latest Offers)
-### [How good is the Atmos Ascent's bonus? Earn 70,000 points and a $99 Companion Fare](https://thepointsguy.com/credit-cards/atmos-ascent-offer-worth/)
-We break down the value of the Atmos Ascent card’s current 70,000 points bonus and $99 Companion Fare to see if this offer is truly worth it for flyers.
-
-### [From discounted gas to free hoagies — why I never skip Wawa Rewards](https://thepointsguy.com/loyalty-programs/wawa-rewards/)
-From discounts on gas to redeeming points for "free" menu items, here's why I love the Wawa Rewards program.
-
-### [Another budget airline adds first class: Allegiant's seats to debut in 2027](https://thepointsguy.com/news/allegiant-air-first-class-seats/)
-Budget airline Allegiant is outfitting its planes with first-class seats. The Las Vegas-based carrier will join the "premium" wave in 2027.
-
+* Processing pipeline clearing cache.
 
 ## 🎭 Top Chicago Happenings
 ### [Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
