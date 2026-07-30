@@ -10,27 +10,35 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump says he's open to delaying Blanche nomination over GOP defectors](https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn)
-President Trump said Thursday that he would have "no objection" to temporarily withdrawing acting Attorney General Todd Blanche's nomination until his Republican opponents are out of office next January.The big picture: Trump's threat, dire...
+### [U.S. sees progress toward deal to disarm Hamas, rebuild Gaza](https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace)
+The White House and President Trump's Board of Peace believe Hamas could sign an agreement in the coming days to begin disarming and demilitarizing the Gaza Strip, four sources familiar with the matter tell Axios. Why it matters: A signed a...
 
-### [Senate panel approves CDC nominee, controversial HHS pick](https://www.axios.com/2026/07/30/senate-panel-approves-cdc-nominee-schwartz-kaufman)
-The Senate health committee approved the nomination of Erica Schwartz for Centers for Disease Control director Thursday, a step toward refilling the depleted ranks of the Trump administration's health care leadership.The committee also appr...
+### [Tim Cook says Apple may charge for AI Siri](https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri)
+Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access.Why it matters: It's the first time that Apple has confirmed it will charge for the new AI-powered voice assistant.What they're saying: In a conference c...
 
-### [Election fears run rampant as November nears: poll](https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll)
-Data: Charles F. Kettering Foundation and Gallup. Chart: Noah Bressner/AxiosAmericans fear November's midterms could be stolen or otherwise compromised, with most worried about political pressure to change results or officials mishandling b...
+### [Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary](https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac)
+A super PAC that has invested millions to unseat Rep. Andy Ogles (R-Tenn.) is putting another $700,000 behind his GOP primary challenger in the final week of the campaign, Axios has learned.Why it matters: Ogles was already facing one his m...
 
 
 ## The Points Guy (Latest Offers)
-### [Deal of the day: Wide-open lie-flat business class awards to Southeast Asia from 75,000 miles and $26](https://thepointsguy.com/deals/business-class-to-philippines-with-atmos/)
-If you have Atmos Rewards points or Bilt Points to redeem to fly from to Southeast Asia, this lie-flat business-class availability is as good as it gets
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+
+### [Wyndham Rewards Earner Plus Card review: Excellent perks and earnings rate with a low annual fee](https://thepointsguy.com/credit-cards/reviews/wyndham-rewards-earner-plus-card-review/)
+The Wyndham Rewards Earner Plus Card offers automatic elite status, anniversary points and strong rewards. See if it's right for you.
+
+### [What credit score do you need for the Amex Business Platinum Card?](https://thepointsguy.com/credit-cards/credit-score-amex-business-platinum/)
+If you're interested in getting the American Express Business Platinum, here's what you need to know about consumer and business credit scores before applying.
+
+### [The best perks from Sephora's first-ever Beauty Insider Celebration Month](https://thepointsguy.com/news/sephora-beauty-insider-celebration-month/)
+Sephora's first-ever Beauty Insider Celebration Month brings bonus points, easier reward redemptions, exclusive gifts and more for all members.
 
 
 ## 🎭 Top Chicago Happenings
+### [10 free things to do in Chicago this August 2026](https://www.choosechicago.com/blog/free-cheap/10-free-things-to-do-in-chicago/)
+Featured Chicago community event.
+
+### [50+ Chicago spots to check out for National Black Business Month](https://www.choosechicago.com/blog/special-events/17-chicago-spots-to-check-out-for-black-owned-business-month/)
+Featured Chicago community event.
+
 ### [Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
-Featured Chicago community event.
-
-### [Always see something new at Lincoln Park Zoo](https://www.choosechicago.com/blog/always-see-something-new-at-lincoln-park-zoo/)
-Featured Chicago community event.
-
-### [A tour through Chicago’s historic Kenwood neighborhood: Obama family home and beyond](https://www.choosechicago.com/blog/neighborhoods-blog/take-a-walking-tour-of-chicagos-kenwood/)
 Featured Chicago community event.
