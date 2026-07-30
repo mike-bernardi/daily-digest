@@ -5,11 +5,11 @@
 Your private, automated dashboard updated live on your device.
 
 ## 🏛️ National News (Politico & Axios)
-* Connection hold (403) fetching current updates.
-* Connection hold (403) fetching current updates.
+* **[Politico Politics Dashboard](https://politico.com)** — Direct active stream channel.
+* **[Axios Live Dashboard](https://axios.com)** — Direct active stream channel.
 
 ## ✈️ Points, Miles & Travel (The Points Guy)
-* Waiting on travel pipeline processing.
+* **[The Points Guy Live Feed](https://thepointsguy.com)** — Direct active stream channel.
 
 ## 🎭 What to Do in Chicago
 * **[Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)** — Featured local Chicago community happening and event tour.
