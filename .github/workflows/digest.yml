@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 12 * * *' # Runs automatically every day at 12:00 PM UTC (7:00 AM Chicago Time)
-  workflow_dispatch: # Gives you a manual trigger button
+    - cron: '0 12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -29,8 +29,6 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Digest Script
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: python digest.py
 
     - name: Commit and Push Changes
