@@ -3,11 +3,10 @@
 Welcome back! Here is your private, automated dashboard updated live on your device.
 
 ## 🏛️ National News (Politico & Axios)
-
-
+* No national headlines found.
 
 ## ✈️ Points, Miles & Travel (The Points Guy)
-
+* No travel headlines found.
 
 ## 🎭 What to Do in Chicago
 * **[Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)** — Featured local Chicago community happening and event tour.
