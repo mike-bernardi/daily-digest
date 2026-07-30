@@ -1,12 +1,15 @@
+<style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;}a{color:#58a6ff!important;}h1,h2,h3{color:#f0f6fc!important;border-bottom:1px solid #21262d!important;}</style>
+
 # 🌅 My Daily Briefing - July 30, 2026
 
-Welcome back! Here is your private, automated dashboard updated live on your device.
+Your private, automated dashboard updated live on your device.
 
 ## 🏛️ National News (Politico & Axios)
-* No national headlines found.
+* Connection hold (403) fetching current updates.
+* Connection hold (403) fetching current updates.
 
 ## ✈️ Points, Miles & Travel (The Points Guy)
-* No travel headlines found.
+* Waiting on travel pipeline processing.
 
 ## 🎭 What to Do in Chicago
 * **[Things to do in Chicago this weekend: Lollapalooza weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)** — Featured local Chicago community happening and event tour.
