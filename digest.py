@@ -4,43 +4,74 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 
-# 📈 UPDATED ENDPOINTS: Targeting feeds pre-sorted by click volume and traffic interaction
-RSS_FEEDS = {
-    "Politico (Most Popular)": "https://rsshub.app",
-    "Axios (Trending news)": "https://rsshub.app",
-    "The Points Guy (Latest Offers)": "https://thepointsguy.com/feed/"
+# 🔄 MULTI-MIRROR FAILOVER ROUTING
+# If the main rsshub app times out, the script loops through verified alternative network endpoints
+RSS_MIRRORS = [
+    "https://slarker.me",
+    "https://rsshub.app",
+    "https://moe.moe"
+]
+
+FEED_PATHS = {
+    "Politico (Most Popular)": "/politico/top-stories",
+    "Axios (Trending News)": "/axios/hot"
 }
 
 def fetch_rss_content():
-    sections = {name: [] for name in RSS_FEEDS}
+    sections = {name: [] for name in FEED_PATHS}
+    sections["The Points Guy (Latest Offers)"] = []
+    
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
-    for source_name, url in RSS_FEEDS.items():
-        try:
-            response = requests.get(url, headers=headers, timeout=15)
-            if response.status_code == 200:
-                feed = feedparser.parse(response.text)
+    # 1. Fetch Politico and Axios using mirror failovers
+    for name, path in FEED_PATHS.items():
+        feed_data = None
+        for mirror in RSS_MIRRORS:
+            try:
+                url = f"{mirror}{path}"
+                response = requests.get(url, headers=headers, timeout=8)
+                if response.status_code == 200 and len(response.text) > 500:
+                    feed_data = response.text
+                    break # Success! Break mirror loop
+            except Exception:
+                continue # Try next mirror if this one drops
                 
-                # Capture exactly the top 3 highest-ranked items inside the pre-sorted feed
-                for entry in feed.entries[:3]:
-                    title = entry.title
-                    link = entry.link
-                    summary = entry.get('summary', entry.get('description', ''))
-                    
-                    clean_soup = BeautifulSoup(summary, 'html.parser')
-                    text_snippet = clean_soup.get_text().strip()
-                    
-                    if len(text_snippet) > 240:
-                        text_snippet = text_snippet[:240] + "..."
-                        
-                    sections[source_name].append(f"### [{title}]({link})\n{text_snippet}\n")
-            else:
-                sections[source_name].append(f"* Connection error ({response.status_code}) fetching updates.")
-        except Exception as e:
-            sections[source_name].append(f"* Feed parsing momentarily offline.")
-            
+        if feed_data:
+            feed = feedparser.parse(feed_data)
+            for entry in feed.entries[:3]:
+                title = entry.title
+                link = entry.link
+                summary = entry.get('summary', entry.get('description', 'Tap to open story.'))
+                clean_soup = BeautifulSoup(summary, 'html.parser')
+                text_snippet = clean_soup.get_text().strip()
+                if len(text_snippet) > 240:
+                    text_snippet = text_snippet[:240] + "..."
+                sections[name].append(f"### [{title}]({link})\n{text_snippet}\n")
+        else:
+            sections[name].append(f"* Sync issue extracting latest trending posts right now.")
+
+    # 2. Fetch The Points Guy directly (stable independent feed)
+    try:
+        tpg_url = "https://thepointsguy.com"
+        tpg_resp = requests.get(tpg_url, headers=headers, timeout=10)
+        if tpg_resp.status_code == 200:
+            tpg_feed = feedparser.parse(tpg_resp.text)
+            for entry in tpg_feed.entries[:3]:
+                title = entry.title
+                link = entry.link
+                summary = entry.get('summary', entry.get('description', 'Tap to open details.'))
+                clean_soup = BeautifulSoup(summary, 'html.parser')
+                text_snippet = clean_soup.get_text().strip()
+                if len(text_snippet) > 240:
+                    text_snippet = text_snippet[:240] + "..."
+                sections["The Points Guy (Latest Offers)"].append(f"### [{title}]({link})\n{text_snippet}\n")
+        else:
+            sections["The Points Guy (Latest Offers)"].append(f"* Travel feed momentarily caching.")
+    except Exception:
+        sections["The Points Guy (Latest Offers)"].append(f"* Travel feed pipeline reset.")
+
     return sections
 
 def fetch_chicago_events():
