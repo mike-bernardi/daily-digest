@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - July 30, 2026
+# 🌅 My Daily Briefing - July 31, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [U.S. sees progress toward deal to disarm Hamas, rebuild Gaza](https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace)
-The White House and President Trump's Board of Peace believe Hamas could sign an agreement in the coming days to begin disarming and demilitarizing the Gaza Strip, four sources familiar with the matter tell Axios. Why it matters: A signed a...
+### [The issue CEOs can't afford to ignore](https://www.axios.com/2026/07/31/ceos-affordability-pol)
+Data: Brunswick Group and Echelon Insights; Chart: Sara Wise/AxiosCEOs face an increasingly skeptical American public that's laser-focused on affordability and fairness, according to polling from the Brunswick Group and Echelon Insights pro...
 
-### [Tim Cook says Apple may charge for AI Siri](https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri)
-Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access.Why it matters: It's the first time that Apple has confirmed it will charge for the new AI-powered voice assistant.What they're saying: In a conference c...
+### [Trump administration's health leadership reboot sputters](https://www.axios.com/2026/07/31/rfk-hhs-vaccines-shaky-leadership-reboot)
+The Department of Health and Human Services keeps saying it's turning over a new leaf, but it has only been partially successful — and controversial vaccine policymaking appears to be back on the table.Why it matters: Though the agency rese...
 
-### [Inside the $2 million effort to oust Rep. Andy Ogles in his Republican primary](https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac)
-A super PAC that has invested millions to unseat Rep. Andy Ogles (R-Tenn.) is putting another $700,000 behind his GOP primary challenger in the final week of the campaign, Axios has learned.Why it matters: Ogles was already facing one his m...
+### [Exclusive: FBI gets voter's IP address in new fraud probe tactic](https://www.axios.com/2026/07/31/fbi-voter-ip-address-investigation)
+The Trump administration has a new tactic for trying to isolate cases of alleged voter fraud — digging into the IP addresses of those who went online to register to vote.The FBI recently obtained the IP address of someone who registered onl...
 
 
 ## The Points Guy (Latest Offers)
