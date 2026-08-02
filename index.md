@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 01, 2026
+# 🌅 My Daily Briefing - August 02, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)
-Data: Axios research; Chart: Sara Wise/AxiosChinese AI lab DeepSeek released a powerful new coding model Friday that charges pennies for vast amounts of code — the latest sign that some of the smartest software on Earth is rapidly becoming ...
+### ["Growing pressure" as Nancy Guthrie search passes six months](https://www.axios.com/2026/08/02/nancy-guthrie-search-six-months)
+Six months after Nancy Guthrie was taken against her will from her Arizona home in the middle of the night, there are no suspects or major leads and the case seems to be stalled, a source close to the investigation tells me."There is plenty...
 
-### [Trump considering strikes on Iranian energy targets within days](https://www.axios.com/2026/07/31/trump-iran-strikes-energy-infrastructure-war)
-President Trump is seriously considering launching attacks against energy targets in Iran in the next few days, but hasn't given final orders to do it, a U.S. official told Axios on Friday.Why it matters: A new U.S. bombing campaign in Iran...
+### [Trump's final act begins](https://www.axios.com/2026/08/02/trump-gop-control-midterms-investigations)
+President Trump doesn't much care if Republicans lose the House and/or the Senate in the midterms this fall.Yes, he'd prefer a big win, but he seems indifferent to the election and the possibility of endless Democratic investigations of his...
 
-### [Trump's comments reignite Blanche confirmation fight](https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead)
-The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche, even as President Trump defends the "anti-weaponization" fund holding Blanche's confirmation hostage.The big picture: The "anti-weaponizati...
+### [The pre-Trump GOP is coming for Vance ahead of 2028](https://www.axios.com/2026/08/02/vance-wsj-trump-rubio-2028)
+The Wall Street Journal opinion page tried to stop Donald Trump a decade ago and again in 2024. Now, the standard-bearer of traditional conservatism is making an early case against his presumed heir.Why it matters: Vice President JD Vance h...
 
 
 ## The Points Guy (Latest Offers)
