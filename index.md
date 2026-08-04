@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 03, 2026
+# 🌅 My Daily Briefing - August 04, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,35 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Blanche poised for confirmation vote after he kills Trump's fund](https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche)
-Acting Attorney General Todd Blanche rescinded the order setting up President Trump's $1.776 billion "anti-weaponization" fund Sunday, a move aimed at ending a Republican blockade of his confirmation that leaves the underlying settlement un...
+### [Reliably red Ohio suddenly a red-hot mess for GOP](https://www.axios.com/2026/08/04/ohio-gop-mess-2026-elections)
+Ohio, the red state that helped fuel President Trump's political comeback — and launched his presumed heir, JD Vance, onto the national stage — has become one of the GOP's biggest headaches for the midterms.Why it matters: Republicans are s...
 
-### [New Yorker: China races to own the industries of the future](https://www.axios.com/2026/08/03/new-yorker-evan-osnos-china-us-industrial-race)
-America has been napping or distracted by trivialities while China is racing toward the future, in part by taking advantage of President Trump's trade, immigration and budget policies.That's the eye-opening reality that Evan Osnos unfurls i...
+### [Exclusive: College students want ethical AI](https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university)
+The number of business students regularly using AI has increased from 6.2% to 29% over the past three years, according to research from American University's Kogod School of Business, shared first with Axios.Why it matters: The chorus of AI...
 
-### [Medicaid's work requirement crunch arrives](https://www.axios.com/2026/08/03/medicaid-work-eligibility-requirement-rules-patients)
-Massive changes to Medicaid eligibility are entering a new phase as states begin implementing new work rules and patients face the first real risk of losing coverage.The big picture: The crunch period has started for states to get the word ...
+### [Poll: Talarico has slim lead over Paxton in Texas Senate race](https://www.axios.com/2026/08/04/poll-talarico-has-slim-lead-over-paxton-in-texas-senate-race)
+Three consecutive polls have now shown Democrat James Talarico narrowly ahead of Texas Attorney General Ken Paxton in that state's crucial race for the U.S. Senate. The latest, released Tuesday morning, has Talarico up 47%-45%.Why it matter...
 
 
 ## The Points Guy (Latest Offers)
-*(No dedicated deals posts in the current feed — showing latest TPG stories)*
-
-### [What are points and miles worth? TPG's August 2026 monthly valuations](https://thepointsguy.com/loyalty-programs/monthly-valuations/)
-Learn how points and miles from major loyalty programs stack up. Here's how TPG values each major credit card, hotel and airline rewards currency.
-
-### [Citi / AAdvantage Executive Mastercard is getting a major refresh — here's what's changing](https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/)
-The Citi / AAdvantage Executive Mastercard is adding more credits and a faster path to elite status — and a higher annual fee. Here's what you need to know.
-
-### [Condor will take on United and Lufthansa with new Chicago-Frankfurt flights](https://thepointsguy.com/news/condor-chicago-frankfurt-nonstop-flights-summer-2027/)
-Condor will take on United Airlines and Lufthansa with new Chicago service.
+### [Act fast: Earn the Southwest Companion Pass by booking just 1 round-trip flight](https://thepointsguy.com/deals/earn-southwest-companion-pass-promotion/)
+Southwest's 2026 Companion Pass promotion lets you earn this valuable perk for a fraction of the usual cost.
 
 
 ## 🎭 Top Chicago Happenings
+### [Things to do in Chicago this weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
+Featured Chicago community event.
+
 ### [Dog‑friendly guide to Chicago: a city built for you and your best friend](https://www.choosechicago.com/blog/tours-attractions/dog-friendly-guide-to-chicago-a-city-built-for-you-and-your-best-friend/)
 Featured Chicago community event.
 
 ### [25+ things to do in Chicago this August 2026](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-month/)
-Featured Chicago community event.
-
-### [10 free things to do in Chicago this August 2026](https://www.choosechicago.com/blog/free-cheap/10-free-things-to-do-in-chicago/)
 Featured Chicago community event.
