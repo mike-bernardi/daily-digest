@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 10, 2026
+# 🌅 My Daily Briefing - August 11, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump's new White House counsel could soon face a subpoena fight](https://www.axios.com/2026/08/10/will-scharf-white-house-counsel-midterms)
-White House staff secretary Will Scharf will take over as White House counsel on Sept. 1, President Trump announced Sunday.Why it matters: Scharf begins his job just two months before the midterms, when a possible Democratic House could put...
+### [Why "chipflation" is here to stay](https://www.axios.com/2026/08/11/chips-memory-inflation-ai)
+Data: U.S. Bureau of Labor Statistics via FRED; Chart: Emily Peck/AxiosMemory chip prices are skyrocketing, thanks to AI demand, and there's no end in sight.Why it matters: "Chipflation" is pushing up the prices for electronic goods like sm...
 
-### [The Fed's new chapter runs through Walmart's ex-CEO](https://www.axios.com/2026/08/10/federal-reserve-kevin-warsh-doug-mcmillon-walmart)
-When Mike Allen and I are curious about the "real economy," we talk to sources at big-box stores for a read on real-time sales trends, or friends at super-regional banks to gauge the mood and money movement.  To us, that's the real world an...
+### ["Not helpful": White House winces over conservatives bashing AOC for egg freezing](https://www.axios.com/2026/08/11/aoc-egg-freezing-white-house)
+When Rep. Alexandria Ocasio-Cortez posted a video Saturday giving herself a shot in preparation to freeze her eggs, she instantly injected issues of fertility, family and feminism into political discourse.And some of the online backlash fro...
 
-### [Zuckerberg: AI's biggest risk is one entity with too much control](https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta)
-Meta CEO Mark Zuckerberg released a full-throated defense of AI on Monday morning: a 6,500-word manifesto arguing that the most common concerns are overblown and fail to account for all the positives it can achieve.In his vision of AI, the ...
+### [Homicides fall 17% in big U.S. cities as the post-pandemic crime decline continues](https://www.axios.com/2026/08/11/big-city-homicides-decline-2026)
+Data: Major Cities Chiefs Association (MCCA); Chart: Russell Contreras/AxiosViolent crime kept falling across many of the nation's largest cities through June, with homicides down 17.2% from the first half of 2025, according to preliminary ...
 
 
 ## The Points Guy (Latest Offers)
-### [Deal alert: Points and miles travel deals for August 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
-Save, maximize and earn points and miles on various travel purchases this August
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+
+### [How to save at least $1 per gallon on gas every week this summer with OnePay](https://thepointsguy.com/news/onepay-gas-deal/)
+OnePay is offering at least $1 per gallon back on gas bought on Wednesdays through Sept. 15. Here's how to activate the offer and what the limits are.
+
+### [Ritz-Carlton Credit Card review: Should you book a spot in your wallet for this card?](https://thepointsguy.com/credit-cards/reviews/ritz-carlton-rewards-card-review/)
+There's still a way to get the Ritz Carlton card, but is it worth the effort? Let's find out.
+
+### [16 mistakes cruise ship passengers make on disembarkation day](https://thepointsguy.com/cruise/cruise-ship-disembarkation-day-mistakes/)
+Getting off a cruise ship is not the same as checking out of a hotel. Be prepared for a little chaos – and take these steps to avoid any common disembarkation day mistakes.
 
 
 ## 🎭 Top Chicago Happenings
