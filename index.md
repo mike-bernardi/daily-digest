@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 17, 2026
+# 🌅 My Daily Briefing - August 18, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Birding, silent book club, Mahjong and more: America's meetup explosion](https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness)
-Young people raised on swiping, DMing and streaming are doing something bold: going out.Why it matters: Amid a loneliness epidemic, millennials and Gen Zers are craving IRL connection — enough to show up for meetups built around activities ...
+### [Democrats enter their thirst trap era](https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed)
+Democrats seem to be leaning into a specific midterm strategy, especially on socials: bringing sexy back.Unbuttoned shirts on CNN. Exposed biceps on the rally stage. Made-for-TikTok thirst trap b-roll. And the return of the tan suit.Why it ...
 
-### [Why prescription drug prices are plunging](https://www.axios.com/2026/08/17/drug-prices-medicare-trump)
-Data: Bureau of Labor Statistics; Chart: Courtenay Brown/AxiosAmerica is experiencing its biggest prescription drug price deflation in generations. Why it matters: By one important measure, there is a striking reversal underway for one of h...
+### [This primary is "like 'Florida Man' having his own election"](https://www.axios.com/2026/08/18/florida-weird-primary-election-2026)
+Tuesday is the Florida Man primary. "It's really weird," one political pro said.Why it matters: Florida, MAGA's beating heart, is President Trump's home and was a top, successful target of his redistricting push to add more GOP-leaning cong...
 
-### [The Democratic establishment's ideas deficit](https://www.axios.com/2026/08/17/democratic-establishment-socialism-third-way-2028)
-The centrist Democratic group Third Way recently declared "war" on democratic socialists to head off what they fear could be a far-left hijacking of the party ahead of 2028.But establishment Democrats have made clear what they're against wi...
+### [FBI data for 2025 show biggest drop in violent crime in 90 years](https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025)
+Data: FBI; Note: 2021 data was estimated due to a low number of agencies reporting; Chart: Noah Bressner/AxiosThe U.S. violent crime rate plunged 9.7% last year — the largest annual drop since the FBI's national estimates began in 1936 — ac...
 
 
 ## The Points Guy (Latest Offers)
