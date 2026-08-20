@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 19, 2026
+# 🌅 My Daily Briefing - August 20, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Exclusive: GOP warns AI companies that data centers are politically radioactive](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)
-The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio.In the memo, obtained by Axios, the National Republican Senatori...
+### [Vance raises $5 million at big Hamptons event](https://www.axios.com/2026/08/20/vance-young-donors-fundraiser)
+Vice President Vance hosted a Wednesday evening fundraiser in Southampton, N.Y., for young Republican donors that raised more than $5 million, Axios has learned.Why it matters: The event drew several up-and-coming donors in their 20s and 30...
 
-### [Iran war, said to be over "very soon," nears 6 months](https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers)
-The Iran war — defined by fits and starts and strain on America's military — will hit the half-year mark next week with both Washington and Tehran betting they can outlast one another.Why it matters: President Trump has repeatedly promised ...
+### [When Mullin's friends in Congress call, DHS answers](https://www.axios.com/2026/08/20/markwayne-mullin-dhs-favors)
+Homeland Security Secretary Markwayne Mullin is building a reputation as a Cabinet official willing to do favors for his former colleagues in Congress — even at the risk of drawing a backlash from the White House and MAGA.Why it matters: So...
 
-### [Ossoff tests Democrats' appetite for going low](https://www.axios.com/2026/08/19/ossoff-democrats-appetite-going-low)
-The firestorm over Sen. Jon Ossoff's suggestive remark about President Trump's right-hand woman has raised a bigger question about the type of campaign Democrats will run in 2028.Why it matters: Trump has made schoolyard taunts and personal...
+### [The rise of DSA is killing off Resistance 1.0 Democrats](https://www.axios.com/2026/08/20/dsa-impeachment-trump-vindman-nixon-democrats)
+Democrats who ooze anti-Trump resistance credibility — even central figures in past Trump impeachments — are struggling to withstand the rise of the Democratic Socialists of America and their allies in party primaries.Why it matters: In the...
 
 
 ## The Points Guy (Latest Offers)
