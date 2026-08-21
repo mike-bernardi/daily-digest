@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 20, 2026
+# 🌅 My Daily Briefing - August 21, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,22 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Vance raises $5 million at big Hamptons event](https://www.axios.com/2026/08/20/vance-young-donors-fundraiser)
-Vice President Vance hosted a Wednesday evening fundraiser in Southampton, N.Y., for young Republican donors that raised more than $5 million, Axios has learned.Why it matters: The event drew several up-and-coming donors in their 20s and 30...
+### [A roadmap for safeguarding against AI bioweapons](https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap)
+AI-enabled bioweapons are a potentially catastrophic yet manageable risk — if government, the scientific community, the public health sector and leading tech companies can develop appropriate safeguards, a new report argues.Why it matters: ...
 
-### [When Mullin's friends in Congress call, DHS answers](https://www.axios.com/2026/08/20/markwayne-mullin-dhs-favors)
-Homeland Security Secretary Markwayne Mullin is building a reputation as a Cabinet official willing to do favors for his former colleagues in Congress — even at the risk of drawing a backlash from the White House and MAGA.Why it matters: So...
+### [Kathy Hochul's business-friendly data center plan](https://www.axios.com/2026/08/21/kathy-hochul-business-friendly-data-center-plan)
+New York Gov. Kathy Hochul (D) is positioning herself as a leader of the Democratic search for a data center position that isn't explicitly anti-business.Why it matters: Hochul says her data center platform isn't being designed with politic...
 
-### [The rise of DSA is killing off Resistance 1.0 Democrats](https://www.axios.com/2026/08/20/dsa-impeachment-trump-vindman-nixon-democrats)
-Democrats who ooze anti-Trump resistance credibility — even central figures in past Trump impeachments — are struggling to withstand the rise of the Democratic Socialists of America and their allies in party primaries.Why it matters: In the...
+### [Florida's Angie Nixon isn't the socialist you've heard about](https://www.axios.com/2026/08/21/florida-senate-angie-nixon-socialist)
+Immediately after her shocking upset in Florida's Democratic Senate primary, state Rep. Angie Nixon made clear she isn't really a socialist — even though she'd just joined the Democratic Socialists of America.Why it matters: Nixon's win is ...
 
 
 ## The Points Guy (Latest Offers)
-### [From AirPods to Hokas: 6 back-to-school deals that are actually great for travel, too](https://thepointsguy.com/deals/back-to-school-deals-travel-gear/)
-From AirPods and AirTags to Hokas and backpacks, these back-to-school deals can save you money on gear that's just as useful for your next trip.
+### [The 'deal of the summer': How my credit cards have saved me $360 and counting](https://thepointsguy.com/deals/paze-statement-credits/)
+Paze is offering up to ten $10 statement credits per eligible card at retailers including Domino's, Dunkin', Sephora and more. Here's how I've saved $360.
+
+### [Act fast: Thrifty Traveler Premium is 30% off — flight deals straight to your inbox](https://thepointsguy.com/deals/thrifty-traveler-premium/)
+Thrifty Traveler is one of the tools we use to find flight deals — and right now, the company is giving 30% off.
 
 
 ## 🎭 Top Chicago Happenings
