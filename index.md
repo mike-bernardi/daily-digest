@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 22, 2026
+# 🌅 My Daily Briefing - August 23, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump finds tamping down costs to be tricky](https://www.axios.com/2026/08/22/trump-affordability-beef-consumers)
-President Trump is reaching deeper into individual markets to try to ease consumer price strains.Why it matters: The administration is under mounting pressure to deliver relief as affordability becomes a bigger political liability ahead of ...
+### [Synthetic everything is warping America](https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots)
+A shadowy polling firm confessed this week to faking survey results in two marquee races — then claimed the entire operation was a "short-term social experiment" on misinformation.Why it matters: An AI-enabled flood of synthetic and outrigh...
 
-### [U.S.-Canada trade talks collapse, massive tariffs to take effect](https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney)
-Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect.Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner.Catch ...
+### [Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)
+Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveillance tool.Why it matters: This blowup ov...
 
-### ["Stop gaslighting me!": Florida Democrats' Senate nominee and party chair have heated call over socialism](https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism)
-Florida's new Democratic Senate nominee, Angie Nixon, and the state party's chair had a heated conversation Friday which included a yelling match about the impact of socialism and the challenges of campaigning in a red state like Florida, t...
+### [Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race](https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate)
+Allies of Mike Rogers, Michigan's GOP nominee for the U.S. Senate, have asked AIPAC not to advertise on his behalf, triggering a rupture with the powerful but polarizing pro-Israel group.Rogers spoke with AIPAC chair Michael Tuchin in Los A...
 
 
 ## The Points Guy (Latest Offers)
