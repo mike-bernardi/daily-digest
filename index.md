@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - August 25, 2026
+# 🌅 My Daily Briefing - August 26, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump's Iran "D-Day" leaves sanctions hammer hanging](https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china)
-President Trump's "economic D-Day" for Iran came and went Monday with little of the shock or awe it promised, amounting instead to yet another extended ultimatum.Why it matters: Operation Economic Outcast will unfold not like the Allied inv...
+### [Jeffries faces impeachment dilemma if Democrats win back the House](https://www.axios.com/2026/08/26/hakeem-jeffries-trump-impeachment-dems-win-house)
+With just 10 weeks left until the midterms, House Minority Leader Hakeem Jeffries (D-N.Y.) gave CNN's Wolf Blitzer a preview yesterday of what to expect should Democrats regain control of the House:"Hold every single member of the Trump car...
 
-### [The data center era that's reshaping America](https://www.axios.com/2026/08/25/data-centers-ai-electricity-water-politics)
-Nothing is driving more new U.S. economic investment or political volatility than data centers.Why it matters: They're the Great Subplot of 2026, THE topic animating the AI race and elections. Everyone needs to understand the size, scope an...
+### [Stanley Druckenmiller makes AI writing a billionaire flex](https://www.axios.com/2026/08/26/stanley-druckenmiller-ai-writing-wsj-op-ed)
+Legendary investor Stanley Druckenmiller made AI writing seem like no big deal this week, telling NOTUS reporter Jeff Stein "of course" he used it to help draft a widely shared op-ed for the Wall Street Journal.Why it matters: The moment co...
 
-### [Mark Carney's defiance of Trump has Canada cheering](https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support)
-Canadian Prime Minister Mark Carney has turned his decision to hold firm against President Trump's tariff threats into a rallying point for Canadians as their trade clash escalates.Why it matters: The mild-mannered former Bank of Canada and...
+### [Trump's "election integrity" threat: Defunding state and local police](https://www.axios.com/2026/08/26/trump-elections-defund-police)
+State and cities nationwide are rebelling against the White House's push to withhold millions of dollars in police and anti-terrorism funding unless they impose new voting rules.Why it matters: President Trump's effort to impose election po...
 
 
 ## The Points Guy (Latest Offers)
-### [Deal alert: Points and miles travel deals for August 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
-Save, maximize and earn points and miles on various travel purchases this August
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+
+### [We raced from JFK to the Empire State Building — which mode of transportation was fastest?](https://thepointsguy.com/travel/new-york-jfk-empire-state-building-race/)
+Three TPG staffers raced from New York's John F. Kennedy International Airport (JFK) to the Empire State Building using three different modes of transportation. Which was fastest?
+
+### [TPG’s 10 commandments of credit card rewards](https://thepointsguy.com/loyalty-programs/ten-credit-card-commandments/)
+10 rules for maximizing travel credit cards, such as avoiding interest payments and getting a card with no foreign transaction fees.
+
+### [Pumpkin spice is back at Starbucks — here's how to maximize your purchase](https://thepointsguy.com/news/starbucks-pumpkin-spice-2026/)
+Starbucks has brought back its pumpkin spice menu as of Aug. 25, and there are some easy ways to maximize your fall flavor purchase.
 
 
 ## 🎭 Top Chicago Happenings
