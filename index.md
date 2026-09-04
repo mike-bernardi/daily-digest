@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 03, 2026
+# 🌅 My Daily Briefing - September 04, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Widespread AI outage underway](https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages)
-OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok are all down Thursday morning, according to the outage company Downdetector. Why it matters: Outages are common, but it's unusual for all three to go down at once, especially as the world...
+### [Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend](https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv)
+President Trump's envoys Steve Witkoff and Jared Kushner will travel this weekend to Moscow and Kyiv for talks on ending the war, U.S. officials said. Why it matters: This will be the first visit by Witkoff and Kushner to Kyiv since Preside...
 
-### [Gloria Steinem, feminist icon, dies at 92](https://www.axios.com/2026/09/03/gloria-steinem-dies-92-feminist-icon)
-Gloria Steinem, the journalist, activist and organizer who became the most recognizable face of the U.S. women's movement, died Wednesday at 92.The big picture: Steinem resisted being cast as feminism's singular face, but for six decades sh...
+### [The coming verdict on Trump's Strait of Hormuz claims](https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran)
+The White House is at odds with some private sector analysts over how much oil is leaving the Strait of Hormuz — but it will take weeks until the picture of what's truly getting through becomes clear.Why it matters: How much oil exits the w...
 
-### [Altman raises stakes on government scrutiny as AI advances](https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20)
-CHAPEL HILL, N.C. — OpenAI CEO Sam Altman called the Trump administration's voluntary review of the company's forthcoming Astra model a "productive process" and said that closer engagement with government officials around the world will mat...
+### [AI models are becoming unknowable](https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think)
+AI models may be getting safer while also getting harder to monitor. Which side of that seesaw prevails could determine whether AI is scaled safely or ruins civilization as we know it.Why it matters: Right now both options are running full ...
 
 
 ## The Points Guy (Latest Offers)
@@ -29,11 +29,11 @@ Atmos Rewards members can book discounted awards to London; Tokyo; Taipei, Taiwa
 
 
 ## 🎭 Top Chicago Happenings
+### [Your guide to Chicago Live Festival 2026: the largest free performing arts fest in the Midwest](https://www.choosechicago.com/blog/special-events/chicago-live-navy-pier/)
+Featured Chicago community event.
+
 ### [Things to do in Chicago this weekend: Labor Day weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
 Featured Chicago community event.
 
 ### [A fall guide to Chicago for culture lovers: music festivals, art exhibits, and top events](https://www.choosechicago.com/blog/arts-culture-entertainment/chicago-fall-bucket-list-culture-lovers/)
-Featured Chicago community event.
-
-### [Explore the universe at Chicago’s Adler Planetarium](https://www.choosechicago.com/blog/explore-the-universe-at-chicagos-adler-planetarium/)
 Featured Chicago community event.
