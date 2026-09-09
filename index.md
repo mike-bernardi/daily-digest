@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 08, 2026
+# 🌅 My Daily Briefing - September 09, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [NYC unveils records suggesting officials knew air was unsafe after 9/11](https://www.axios.com/2026/09/08/nyc-records-911-air-safety-mamdani)
-New York City Mayor Zohran Mamdani's administration released more than 170,000 pages of documents Tuesday that suggest city officials knew air conditions following the 9/11 attacks were unsafe, despite assurances otherwise.The big picture: ...
+### [Anthropic insiders warn AI could kill all humans](https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans)
+Three Anthropic researchers went public last night with chilling concerns about out-of-control AI, warning it could destroy humans this decade.Anthropic AI researcher Jacob Coxon wrote on X, after resigning Tuesday to sound the alarm: "The ...
 
-### [The body image battle is real in 2026, but the bodies may not be](https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals)
-A societal spotlight on extreme thinness is stripping body diversity from screens, just as fashion magazines did in the early aughts, mental health experts tell Axios. The big picture: Fake content creators are introducing unattainable, AI-...
+### [GOP officials give up on futile Trump persuasion](https://www.axios.com/2026/09/09/trump-midterms-republicans-popularity)
+Top White House officials and elected Republicans tell us the same thing in private: They no longer even try to persuade President Trump to do or not do something."Why bother?" a longtime adviser and admirer told us. "He's the boss."Why it ...
 
-### [Sports' grip on America sparks summer of political warfare](https://www.axios.com/2026/09/08/sports-culture-war-wnba-mlb-golf)
-The WNBA, Major League Baseball and even a golf startup spent the summer as unlikely proxies in some of the country's fiercest national conflicts.Why it matters: American culture has shattered into thousands of tiny shards of glass. But spo...
+### [Medicare drug coverage faces an ominous spending outlook](https://www.axios.com/2026/09/09/medicare-drug-coverage-spending-increases)
+There are troubling new signs that the overhaul of Medicare drug coverage in the Inflation Reduction Act is dramatically driving up program spending. Why it matters: The upward trajectory could threaten some seniors' coverage for outpatient...
 
 
 ## The Points Guy (Latest Offers)
-### [Deal alert: Points and miles travel deals for September 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
-Save, maximize and earn points and miles on various travel purchases this September
+### [How I use Savewise to stack shopping portals, credit card offers and cash back for bigger rewards](https://thepointsguy.com/deals/using-savewise/)
+Savewise helps you maximize online shopping rewards by comparing shopping portals, credit card offers and other ways to stack points, miles and cash back.
 
 
 ## 🎭 Top Chicago Happenings
+### [How to celebrate National Hispanic Heritage Month in Chicago](https://www.choosechicago.com/blog/special-events/how-to-celebrate-hispanic-heritage-month-in-chicago/)
+Featured Chicago community event.
+
+### [Things to do in Chicago this weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
+Featured Chicago community event.
+
 ### [9 of Chicago’s most haunted places](https://www.choosechicago.com/blog/tours-attractions/chicago-most-haunted-places/)
-Featured Chicago community event.
-
-### [Your guide to Chicago Live Festival 2026: the largest free performing arts fest in the Midwest](https://www.choosechicago.com/blog/special-events/chicago-live-navy-pier/)
-Featured Chicago community event.
-
-### [Things to do in Chicago this weekend: Labor Day weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
 Featured Chicago community event.
