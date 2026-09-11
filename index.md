@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 10, 2026
+# 🌅 My Daily Briefing - September 11, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump makes a familiar promise: $5,000 checks for everyone](https://www.axios.com/2026/09/10/trump-dividend-check-5000)
-President Trump is promising $5,000 checks for every adult U.S. citizen if Republicans retain control of Congress in the upcoming midterm election.Why it matters: He's made similar suggestions before, many times, none of which ever came to ...
+### [CDC declares Cyclospora outbreak over](https://www.axios.com/2026/09/11/cdc-declares-cyclospora-outbreak-over)
+The Centers for Disease Control and Prevention declared the Cyclospora outbreak related to Taylor Farms lettuce over Friday, though the Food and Drug Administration says its investigation remains ongoing.The big picture: Thousands of people...
 
-### [We're living in an AI twilight zone](https://www.axios.com/2026/09/10/ai-anthropic-warning-humanity)
-Two seemingly contradictory realities are true at once:Most people find AI only modestly useful, a more clever Google search.Many people building AI or using it obsessively worry it could severely damage or destroy humanity.Why it matters: ...
+### [9/11 widow blasts Saudi Arabia during annual ceremony](https://www.axios.com/2026/09/11/911-widow-saudi-arabia-trump)
+A widow of a 9/11 victim used the annual reading of the names of those killed to plead with the Trump administration about Saudi Arabian officials' alleged ties to the terror attack, which the kingdom has dismissed.The big picture: During t...
 
-### [Elon Musk's X is the AI community group chat](https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat)
-Elon Musk bought Twitter saying civilization needed a "common digital town square." Four years later, it's more like a live group chat for Silicon Valley's AI obsessives.Why it matters: Two years ago, X was fighting off competition from a s...
+### [Saudi crown prince urged Trump to strike Houthis amid Red Sea threat](https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes)
+Saudi Crown Prince Mohammed bin Salman (MBS) called President Trump twice Thursday, urging him to launch strikes against the Houthis as the Iran-backed group closed in on a vital Red Sea chokepoint, two U.S. officials told Axios.Trump decli...
 
 
 ## The Points Guy (Latest Offers)
-### [How I use Savewise to stack shopping portals, credit card offers and cash back for bigger rewards](https://thepointsguy.com/deals/using-savewise/)
-Savewise helps you maximize online shopping rewards by comparing shopping portals, credit card offers and other ways to stack points, miles and cash back.
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+
+### [The best rental car loyalty programs in 2026](https://thepointsguy.com/loyalty-programs/rental-car-rewards-programs/)
+Compare the best rental car loyalty programs in 2026, including how to earn rewards, get elite status, redeem points and keep rewards from expiring.
+
+### [Marriott Bonvoy Business Amex review: A valuable hotel card for small-business owners](https://thepointsguy.com/credit-cards/reviews/marriott-bonvoy-business-amex-credit-card-review/)
+Here's why the Marriott Bonvoy Business American Express Card could be the best credit card for small-business owners who are loyal to the Marriott brand.
+
+### [TPG'S favorite things to do in New York City](https://thepointsguy.com/travel/things-to-do-in-new-york-city/)
+Here's what TPG staff likes to eat, see, and experience in New York City.
 
 
 ## 🎭 Top Chicago Happenings
