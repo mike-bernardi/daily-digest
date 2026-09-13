@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 12, 2026
+# 🌅 My Daily Briefing - September 13, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Anthropic CEO calls for immediate slowdown in AI development](https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing)
-Anthropic CEO Dario Amodei is calling for an immediate slowdown in the pace of AI development, warning of potentially devastating consequences in a matter of months otherwise. Why it matters: Amodei, in a new essay, pulls no punches, cautio...
+### [Johnson calls for AI solutions but says Congress won't take the lead](https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson)
+House Speaker Mike Johnson (R-La.) said Sunday that Congress won't lead the charge on regulating AI safety. Why it matters: Calls for AI companies to adopt safety protocols reached a fever pitch this week, prompting the four biggest AI labs...
 
-### [Anthropic report: 5 ways Claude was exploited for war, spying and repression](https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china)
-The AI safety debate exploded this week over warnings that the technology could one day destroy humanity.Anthropic's latest threat report offers a more immediate wake-up call: Today's models are already helping U.S. adversaries develop kami...
+### [Trump's $5,000 checks require Congress to approve, Johnson says](https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress)
+President Trump's proposal to send adult U.S. citizens $5,000 dividend checks would require congressional approval, House Speaker Mike Johnson (R-La.) said on Sunday.Why it matters: Trump and his top officials claim they can send the checks...
 
-### [Behind the Curtain: It's not too late](https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026)
-The White House, Congress and the country's leading AI companies have allowed AI to grow faster, stronger, more powerful and wildly lucrative (and dangerous), with no serious effort to control it or spread the benefits beyond the super-weal...
+### [AI's most powerful CEOs hit the brakes](https://www.axios.com/2026/09/13/ai-labs-regulation-safety)
+In nine startling hours on Saturday, the four biggest AI labs — which rarely agree on anything — set aside years of feuds and competition to endorse a slower development pace for their models.Their new stance: Prioritize safety over growth,...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [Blacklane car service: How it works and the best ways to save](https://thepointsguy.com/travel/blacklane-car-service/)
-Blacklane offers chauffeur-driven car service in hundreds of cities worldwide. Here's how it works, what it costs and how to save with Bilt and Citi.
+### [Sports travel is having its 'Eras Tour' moment. Airlines have noticed](https://thepointsguy.com/news/airlines-bet-big-sports-travel-boom/)
+Airlines are betting big on sports travel as fans splurge on luxe stadium getaways.
 
-### [Who's eligible for the Chase Ink Business Cash and Unlimited's $1,000 cash-back welcome offer?](https://thepointsguy.com/credit-cards/chase-ink-cash-unlimited-bonus-eligibility/)
-The Chase Ink Business Cash and Ink Business Unlimited both have stellar welcome offers right now. Here's how to know if you're eligible.
+### [Atmos Summit card: Why it's the most rewarding airline card to maximize international travel](https://thepointsguy.com/news/most-rewarding-airline-card-overseas/)
+The Atmos Rewards Summit card earns 3 points per dollar on every foreign purchase, an unmatched rate among airline cards. Here's why it belongs in your wallet.
 
-### [Epic Passes on sale now for this year's ski season — with a new Gen Z discount](https://thepointsguy.com/travel/epic-ski-pass/)
-Here's how you can ski for less this year with the Epic Pass.
+### [Quarterly statement credits and bonus categories: Maximize these Q3 benefits before Sept. 30](https://thepointsguy.com/credit-cards/quarterly-credit-card-statement-credits/)
+Quarterly credit card statement credits: What to use in the third quarter of 2026. Keep track of your statement credits and bonus categories to maximize value.
 
 
 ## 🎭 Top Chicago Happenings
