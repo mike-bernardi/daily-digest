@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 19, 2026
+# 🌅 My Daily Briefing - September 20, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump bans CNN, MS NOW and Politico from White House](https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house)
-President Trump said Friday he is banning CNN, MS NOW and Politico from the White House "effective immediately," escalating his long-running battles with news organizations.Early Saturday morning, Politico, CNN and MS NOW said their journal...
+### [Three Republican power players walk into a D.C. bar, and ...](https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil)
+It sounds like the start of an only-in-D.C. joke:Three Republican power players walk into a bar for a freewheeling conversation. They unwittingly sit next to a liberal comic. She then skewers them in an Instagram post recounting their chat....
 
-### [Iran war causes global pain at the pump](https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices)
-Data: Axios research. Note: Some countries use a quota system for gasoline. Malaysia's figure reflects the unsubsidized market rate. Chart: Noah Bressner/AxiosThe Iran war is driving fuel prices higher worldwide, leading to angry protests a...
+### [The tech battle to build your AI assistant](https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple)
+The long-promised personal AI assistant is finally arriving, with a suddenly crowded field of agents offering to run pieces of your everyday life.Why it matters: For years, tech's "personal assistants" were little more than voice-controlled...
 
-### [Football drives GOP's TV ad blitz for the midterms](https://www.axios.com/2026/09/19/gop-football-campaign-ads-midterms)
-Republicans scrambling for midterm momentum are making a massive bet on football, pouring millions into advertising during the country's biggest NFL and college games.Why it matters: Across the country, Republicans are trying to hold onto m...
+### [Trump's proposed Washington arch to become sniper, drone facility](https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones)
+President Trump said Sunday morning his proposed "triumphal arch" in Washington will become a dual-use facility housing snipers, drones and ammunition storage. Why it matters: The president is now framing construction of the arch as a natio...
 
 
 ## The Points Guy (Latest Offers)
