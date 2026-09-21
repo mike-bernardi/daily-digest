@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 20, 2026
+# 🌅 My Daily Briefing - September 21, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Three Republican power players walk into a D.C. bar, and ...](https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil)
-It sounds like the start of an only-in-D.C. joke:Three Republican power players walk into a bar for a freewheeling conversation. They unwittingly sit next to a liberal comic. She then skewers them in an Instagram post recounting their chat....
+### [Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks](https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china)
+OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk.Why it matters: The U.S. approach to coordinating on AI risk with China will be heavily informed by industry...
 
-### [The tech battle to build your AI assistant](https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple)
-The long-promised personal AI assistant is finally arriving, with a suddenly crowded field of agents offering to run pieces of your everyday life.Why it matters: For years, tech's "personal assistants" were little more than voice-controlled...
+### [Exclusive: How Sen. Schatz is talking about climate in an affordability crisis](https://www.axios.com/2026/09/21/sen-schatz-climate-change-affordability)
+Americans are "connecting the dots" between climate and affordability strain, Sen. Brian Schatz (D-Hawaii) said Monday at an Axios House event on the sidelines of Climate Week and the UN General Assembly.Why it matters: But as pocketbook is...
 
-### [Trump's proposed Washington arch to become sniper, drone facility](https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones)
-President Trump said Sunday morning his proposed "triumphal arch" in Washington will become a dual-use facility housing snipers, drones and ammunition storage. Why it matters: The president is now framing construction of the arch as a natio...
+### [CNN, MS NOW, Politico sues White House over blocked access](https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit)
+CNN, MS NOW, and Politico on Monday said they will file a First Amendment lawsuit against the White House, arguing the president and the administration violated their rights by blocking their access over the weekend.Why it matters: Many pre...
 
 
 ## The Points Guy (Latest Offers)
