@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 22, 2026
+# 🌅 My Daily Briefing - September 23, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,29 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Arab mediators push for U.S.-Iran meeting at U.N. to de-escalate crisis](https://www.axios.com/2026/09/22/unga-iran-us-trump-war)
-Several Arab countries mediating between the U.S. and Iran are in contact with both sides about arranging a high-level meeting on the sidelines of the UN General Assembly, according to a regional source involved in the talks.Why it matters:...
+### [Scoop: Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan](https://www.axios.com/2026/09/23/trump-board-of-peace-gaza-reconstruction-plan)
+President Trump's Board of Peace will unveil a six-month, $2.45 billion recovery plan for Gaza at a meeting of its members on Wednesday.Why it matters: The 66-project proposal offers one of the most comprehensive roadmaps yet for what the e...
 
-### [Love is pricey. Here's what young Americans are doing about it](https://www.axios.com/2026/09/22/the-rising-price-tag-of-romance)
-Data:  Zelle New Economics of Dating Report; Chart: Avery Lotz/AxiosRising costs are changing dating for more than eight in 10 Gen Z and millennial daters, leaving some to stop courting altogether, per new data from Zelle.The big picture: Y...
+### [Trump pursues last-ditch hunt for voter fraud](https://www.axios.com/2026/09/23/trump-voter-fraud-citizens)
+The Trump administration says Americans should prepare between now and Election Day for a wave of new arrests and prosecutions over alleged non-citizen voter fraud.
 
-### [A GOP senator wants Trump Jr. subpoenaed after Russian oligarch-funded wedding](https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas)
-Sen. John Curtis (R-Utah) is urging Senate Judiciary leaders to subpoena Donald Trump Jr. and Hunter Biden to investigate whether presidential family ties have been used for private family gain.Why it matters: The Republican Curtis is press...
+Why it matters: The Trump administration is deploying hundreds of federal ...
+
+### [The All-In-ification of Trump's AI agenda](https://www.axios.com/2026/09/23/all-in-podcast-trump-ai-safety)
+President Trump's accelerationist AI doctrine increasingly bears the stamp of the "All-In" podcast, whose tech-investor network now feeds ideas and talent directly into the White House.Why it matters: An unlikely marriage of convenience bet...
 
 
 ## The Points Guy (Latest Offers)
-### [Deal alert: Points and miles travel deals for September 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
-Save, maximize and earn points and miles on various travel purchases this September
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+
+### [London vs. New York City showdown video: Which one comes out on top?](https://thepointsguy.com/travel/london-vs-nyc-showdown-video/)
+Two TPG staffers swapped cities to see which one reigns supreme
+
+### [Delta cuts another route at JFK, axes brand-new service from Seattle](https://thepointsguy.com/news/delta-air-lines-route-cuts-seattle-jfk/)
+Delta Air Lines trimmed two routes from its schedule, including a brand-new nonstop flight from Seattle.
+
+### [American Airlines' expanding partnership with Starlux will include mileage and status earning](https://thepointsguy.com/airline/american-airlines-starlux-codeshare/)
+American Airlines and Starlux are expanding their partnership with a new codeshare agreement: AAdvantage® members purchasing a codeshare flight can earn miles and Loyalty Points.
 
 
 ## 🎭 Top Chicago Happenings
