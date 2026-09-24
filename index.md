@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 23, 2026
+# 🌅 My Daily Briefing - September 24, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,37 +10,35 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Scoop: Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan](https://www.axios.com/2026/09/23/trump-board-of-peace-gaza-reconstruction-plan)
-President Trump's Board of Peace will unveil a six-month, $2.45 billion recovery plan for Gaza at a meeting of its members on Wednesday.Why it matters: The 66-project proposal offers one of the most comprehensive roadmaps yet for what the e...
+### [Trump and Xi's summit revives panda diplomacy](https://www.axios.com/2026/09/24/xi-trump-panda-diplomacy-zoo-atlanta)
+Chinese President Xi Jinping said Thursday during a visit with President Trump that China will send two pandas to Zoo Atlanta, calling them an "envoy of friendship."Why it matters: The fuzzy ambassadors have long been one of China's most be...
 
-### [Trump pursues last-ditch hunt for voter fraud](https://www.axios.com/2026/09/23/trump-voter-fraud-citizens)
-The Trump administration says Americans should prepare between now and Election Day for a wave of new arrests and prosecutions over alleged non-citizen voter fraud.
+### [White House ordered to restore access to banned news outlets](https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access)
+A district court judge ruled the White House violated the Fifth Amendment rights of CNN, MS NOW and Politico by banning them, and granted the plaintiffs a temporary restraining order that forces the White House to immediately reinstate thei...
 
-Why it matters: The Trump administration is deploying hundreds of federal ...
-
-### [The All-In-ification of Trump's AI agenda](https://www.axios.com/2026/09/23/all-in-podcast-trump-ai-safety)
-President Trump's accelerationist AI doctrine increasingly bears the stamp of the "All-In" podcast, whose tech-investor network now feeds ideas and talent directly into the White House.Why it matters: An unlikely marriage of convenience bet...
+### [Why Treasury yields are ripping higher](https://www.axios.com/2026/09/24/treasury-yields-inflation-bonds)
+Data: FactSet; Chart: Axios/Matt Phillips Treasury yields are soaring, with the 30-year Treasury bond climbing to its highest level since 2004 Thursday.  The selloff in bonds started to accelerate Wednesday after a sizzling early report on ...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [London vs. New York City showdown video: Which one comes out on top?](https://thepointsguy.com/travel/london-vs-nyc-showdown-video/)
-Two TPG staffers swapped cities to see which one reigns supreme
+### [Hilton Honors American Express Aspire Card review: A card for all Hilton fans](https://thepointsguy.com/credit-cards/reviews/hilton-amex-aspire-review/)
+The Hilton Amex Aspire offers tons of benefits, from bonus points on Hilton stays to complimentary Diamond status. Here's what you need to know to apply.
 
-### [Delta cuts another route at JFK, axes brand-new service from Seattle](https://thepointsguy.com/news/delta-air-lines-route-cuts-seattle-jfk/)
-Delta Air Lines trimmed two routes from its schedule, including a brand-new nonstop flight from Seattle.
+### [Taking Lyft for work? Here's how to easily earn rewards on every trip](https://thepointsguy.com/loyalty-programs/lyft-business-rewards-self-enroll/)
+If you use Lyft for work, you could be earning Lyft Cash back on every ride. Here's how to self-enroll in Lyft Business Rewards in under two minutes.
 
-### [American Airlines' expanding partnership with Starlux will include mileage and status earning](https://thepointsguy.com/airline/american-airlines-starlux-codeshare/)
-American Airlines and Starlux are expanding their partnership with a new codeshare agreement: AAdvantage® members purchasing a codeshare flight can earn miles and Loyalty Points.
+### [The best IHG all-inclusive resorts for every type of traveler](https://thepointsguy.com/hotel/best-ihg-all-inclusive-resorts-for-travelers/)
+From family-friendly waterpark resorts to luxury adults-only stays, here are the best IHG all-inclusive resorts — and how to earn points on every booking.
 
 
 ## 🎭 Top Chicago Happenings
+### [9 films to catch during the Chicago International Film Festival 2026](https://www.choosechicago.com/blog/special-events/chicago-international-film-festival/)
+Featured Chicago community event.
+
 ### [Things to do in Chicago this weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
 Featured Chicago community event.
 
 ### [Your guide to Chicago Fashion Week 2026: runways, events, parties, and more](https://www.choosechicago.com/blog/special-events/your-guide-to-the-first-ever-chicago-fashion-week/)
-Featured Chicago community event.
-
-### [16 unique places to discover during Open House Chicago 2026](https://www.choosechicago.com/blog/architecture-history/open-house-chicago-10-places-to-explore/)
 Featured Chicago community event.
