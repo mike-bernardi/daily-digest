@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 24, 2026
+# 🌅 My Daily Briefing - September 25, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump and Xi's summit revives panda diplomacy](https://www.axios.com/2026/09/24/xi-trump-panda-diplomacy-zoo-atlanta)
-Chinese President Xi Jinping said Thursday during a visit with President Trump that China will send two pandas to Zoo Atlanta, calling them an "envoy of friendship."Why it matters: The fuzzy ambassadors have long been one of China's most be...
+### ["Washington is broken": Democrats running for office turn sharply against their own party](https://www.axios.com/2026/09/25/democrats-midterm-ads-2026-corruption-parties)
+Democrats are adopting a drastically more negative tone toward their own party in the 2026 midterm elections, swapping promises of bipartisan collaboration with vows to "take on corruption in both parties."Why it matters: This surge in poli...
 
-### [White House ordered to restore access to banned news outlets](https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access)
-A district court judge ruled the White House violated the Fifth Amendment rights of CNN, MS NOW and Politico by banning them, and granted the plaintiffs a temporary restraining order that forces the White House to immediately reinstate thei...
+### [Tillis rips Trump's Xi meeting as a "WTF moment"](https://www.axios.com/2026/09/25/tillis-trump-xi-meeting-white-house-china)
+Sen. Thom Tillis (R-N.C.) criticized President Trump's warm reception for Chinese President Xi Jinping, questioning why Xi received a warmer welcome than some U.S. allies.Why it matters: Tillis has repeatedly broken with Trump since decidin...
 
-### [Why Treasury yields are ripping higher](https://www.axios.com/2026/09/24/treasury-yields-inflation-bonds)
-Data: FactSet; Chart: Axios/Matt Phillips Treasury yields are soaring, with the 30-year Treasury bond climbing to its highest level since 2004 Thursday.  The selloff in bonds started to accelerate Wednesday after a sizzling early report on ...
+### [Trump asked Xi to stop supporting Iran](https://www.axios.com/2026/09/25/trump-xi-china-iran-war-support)
+President Trump asked Chinese President Xi Jinping to halt any assistance to Iran when the two spoke during his state visit, U.S. Ambassador to Beijing David Perdue said Friday. Why it matters: China's economic, intelligence and military su...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [Hilton Honors American Express Aspire Card review: A card for all Hilton fans](https://thepointsguy.com/credit-cards/reviews/hilton-amex-aspire-review/)
-The Hilton Amex Aspire offers tons of benefits, from bonus points on Hilton stays to complimentary Diamond status. Here's what you need to know to apply.
+### [Delta adds new Venice and Athens routes, bolsters 'shoulder season' Europe for 2027](https://thepointsguy.com/news/delta-new-europe-routes-shoulder-season-flying/)
+Delta Air Lines will link to more of its hubs to Venice and Athens in the summer of 2027, while doubling down on southern Europe in the spring and fall.
 
-### [Taking Lyft for work? Here's how to easily earn rewards on every trip](https://thepointsguy.com/loyalty-programs/lyft-business-rewards-self-enroll/)
-If you use Lyft for work, you could be earning Lyft Cash back on every ride. Here's how to self-enroll in Lyft Business Rewards in under two minutes.
+### [Amex Platinum Card review: Luxury benefits and premium perks for frequent travelers](https://thepointsguy.com/credit-cards/reviews/amex-platinum-review/)
+The Amex Platinum comes with a steep $895 fee, but its lounge access, travel benefits and credits can more than cover it. See how the benefits stack up.
 
-### [The best IHG all-inclusive resorts for every type of traveler](https://thepointsguy.com/hotel/best-ihg-all-inclusive-resorts-for-travelers/)
-From family-friendly waterpark resorts to luxury adults-only stays, here are the best IHG all-inclusive resorts — and how to earn points on every booking.
+### [Basic economy is spreading to more award bookings: Why you should be careful](https://thepointsguy.com/airline/basic-economy-award-bookings/)
+A growing number of U.S. airlines now sell basic economy even to customers booking with points. Here's what the tradeoffs are for passengers.
 
 
 ## 🎭 Top Chicago Happenings
