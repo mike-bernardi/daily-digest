@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 26, 2026
+# 🌅 My Daily Briefing - September 27, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump says he rejected the latest Iranian proposal](https://www.axios.com/2026/09/26/trump-iran-un-proposal)
-President Trump said on Saturday that he rejected the latest Iranian proposal that was conveyed to the U.S. during indirect negotiations in New York this week.Why it matters: While Qatar and other regional mediators are trying to revive neg...
+### [Trump: 5 terrorism suspects in U.K. base incident were under investigation](https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force)
+British police arrested five men Sunday on suspicion of terrorism near a U.K. air base used for U.S. operations in Iran, as President Trump said the suspects had been under investigation.The latest: "Working with Britain, it was an amazing ...
 
-### [GOP election outlook goes from bad to "craptastic"](https://www.axios.com/2026/09/26/trump-republicans-midterm-election-house-senate)
-President Trump told voters to pretend he's on the ballot. Apparently they're listening: Republicans coast to coast are getting pulled under by a violent undertow fueled by Trump's unpopularity.Why it matters: It's looked bad for Republican...
+### [Scoop: Anthropic's Dario Amodei to have White House dinner with Trump](https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite)
+President Trump plans to host Anthropic CEO Dario Amodei at a private White House dinner on Sunday evening, sources familiar told Axios.Why it matters: The dinner —the first one-on-one meeting between the two— is an indication of thawing re...
 
-### [U.S. and China agree to "super intelligence" dialogue amid AI tensions](https://www.axios.com/2026/09/26/us-china-ai-si-deal)
-The U.S. and China have agreed to set up a dialogue on artificial intelligence, with a communications channel to help defuse serious incidents, the White House said overnight. Why it matters: President Trump has said the main thing that mat...
+### [After nixing Iran proposal, Trump tells Axios he expects talks this week](https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations)
+One day after he rejected an Iranian proposal to end the war, President Trump told Axios in a phone interview on Sunday that he expects U.S. negotiators to engage in more talks with the country this week.Why it matters: Qatar and other regi...
 
 
 ## The Points Guy (Latest Offers)
