@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 27, 2026
+# 🌅 My Daily Briefing - September 28, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump: 5 terrorism suspects in U.K. base incident were under investigation](https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force)
-British police arrested five men Sunday on suspicion of terrorism near a U.K. air base used for U.S. operations in Iran, as President Trump said the suspects had been under investigation.The latest: "Working with Britain, it was an amazing ...
+### [Kash Patel's FBI loses another top official](https://www.axios.com/2026/09/28/fbi-kash-patel-andrew-bailey-leaves)
+Andrew Bailey, deputy director of the FBI, is leaving his post after just over a year of service, Bailey and Director Kash Patel confirmed Monday.Why it matters: Bailey's resignation adds to turnover under Patel, as top aides and experience...
 
-### [Scoop: Anthropic's Dario Amodei to have White House dinner with Trump](https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite)
-President Trump plans to host Anthropic CEO Dario Amodei at a private White House dinner on Sunday evening, sources familiar told Axios.Why it matters: The dinner —the first one-on-one meeting between the two— is an indication of thawing re...
+### [Florida asks for order to halt ChatGPT development](https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier)
+Florida Attorney General James Uthmeier has asked for an emergency injunction against OpenAI and ChatGPT, claiming the company doesn't have the ability to properly regulate its own technology.Why it matters: The legal fight could further te...
 
-### [After nixing Iran proposal, Trump tells Axios he expects talks this week](https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations)
-One day after he rejected an Iranian proposal to end the war, President Trump told Axios in a phone interview on Sunday that he expects U.S. negotiators to engage in more talks with the country this week.Why it matters: Qatar and other regi...
+### [The economic legacy of the Biden immigration surge](https://www.axios.com/2026/09/28/economic-legacy-biden-immigration-surge)
+The historic immigration surge that reshaped the U.S. population after the pandemic left a big imprint on the economy: boosting growth with surprisingly little disruption to native-born workers — but also adding to rent inflation.Why it mat...
 
 
 ## The Points Guy (Latest Offers)
