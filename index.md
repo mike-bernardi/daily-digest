@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - September 30, 2026
+# 🌅 My Daily Briefing - October 01, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,35 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push](https://www.axios.com/2026/09/30/cornell-rape-allegations-house-democratic-women-title-ix)
-A criminal investigation into allegations that a Cornell University student was gang raped by seven fraternity members in 2024 is fueling a new push by House Democratic women to strengthen federal protections against sexual violence on coll...
+### [The world opinion shifts on tariffs](https://www.axios.com/2026/10/01/world-shifts-on-trade-tariffs)
+More countries are buying into a core piece of President Trump's argument about what is broken in global trade, even as his tariffs rattle the world economy.Why it matters: Two major agreements over the past month show that more countries a...
 
-### [Tennessee inmate Christa Pike's execution halted an hour beforehand](https://www.axios.com/local/nashville/2026/09/30/christa-pike-execution-stayed-appeals-court)
-Death row inmate Christa Pike got a last-minute reprieve Wednesday when a federal appeals court stopped her execution about an hour before it was set to take place in Nashville.The latest: The court ordered "a short stay of execution" just ...
+### [5 takeaways from Trump's combative Time interview](https://www.axios.com/2026/10/01/trump-time-interview-iran-democrats-ai-netanyahu)
+President Trump's 75-minute interview with Time revealed his latest thinking on the Iran war, the AI race (or in his words, SI), the media and more.Why it matters: The interview with one of America's most historic news publications gives vo...
 
-### [Trump's AI "constitution" crowns day of accelerating ambition](https://www.axios.com/2026/09/30/ai-constitution-trump-white-house)
-With America's tech titans crowded around a single White House table Tuesday, President Trump extracted what he called a "morally binding" compact on AI safety.The terms were simple: Press ahead, project optimism and police yourselves.Why i...
+### [The rocky road to a new permitting law](https://www.axios.com/2026/10/01/senate-permitting-bill)
+A sweeping bipartisan deal to cut permitting red tape faces a long road ahead despite a broad show of support.Why it matters: Cutting hurdles for energy projects is a top priority for fossil fuels and renewables sectors, but some green grou...
 
 
 ## The Points Guy (Latest Offers)
-*(No dedicated deals posts in the current feed — showing latest TPG stories)*
-
-### [Known Traveler Number: What is it, and why should you have one?](https://thepointsguy.com/travel/known-traveler-number/)
-What is a Known Traveler Number, and should you get one? Here's everything you need to know about the program to decide.
-
-### [How to choose a credit card for airport lounge access](https://thepointsguy.com/credit-cards/how-to-choose-credit-card-airport-lounge-access/)
-If you want your credit card to include airport lounge access, you have some great options. Here, we break down how to choose your perfect match.
-
-### [Capital One employee cards: How they work and which business cards offer them](https://thepointsguy.com/credit-cards/capital-one-employee-cards/)
-Capital One business cards offer free employee cards, spending controls and rewards. Here's how they work and how Chase Ink compares.
+### [Deal alert: Get $1,000 in onboard credit on a Tahiti cruise with this amazing offer](https://thepointsguy.com/cruise/deals/tempting-tahiti-cruise-offer/)
+Sister brands Ponant Explorations and Paul Gauguin Cruises are out with a tempting offer for sailings across French Polynesia
 
 
 ## 🎭 Top Chicago Happenings
-### [Things to do in Chicago this weekend](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-weekend/)
+### [25+ things to do in Chicago this October](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-month/)
 Featured Chicago community event.
 
-### [9 films to catch during the Chicago International Film Festival 2026](https://www.choosechicago.com/blog/special-events/chicago-international-film-festival/)
+### [The Chicago Hotel Collection: more than a stay, unforgettable Chicago experiences](https://www.choosechicago.com/blog/the-chicago-hotel-collection-more-than-a-stay-unforgettable-chicago-experiences/)
 Featured Chicago community event.
 
-### [Your guide to Chicago Fashion Week 2026: runways, events, parties, and more](https://www.choosechicago.com/blog/special-events/your-guide-to-the-first-ever-chicago-fashion-week/)
+### [10 free things to do in Chicago this October 2026](https://www.choosechicago.com/blog/free-cheap/10-free-things-to-do-in-chicago/)
 Featured Chicago community event.
