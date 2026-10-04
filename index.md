@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 03, 2026
+# 🌅 My Daily Briefing - October 04, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,17 +10,20 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [OpenAI's Altman: Ascribing religion to models a "safety issue"](https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models)
-OpenAI CEO Sam Altman on Saturday took a veiled shot at Anthropic and its work on the soul of AI, saying he was "very uncomfortable" with the idea of attributing some kind of religious power to models. Why it matters: It's yet another point...
+### [Iranian diplomats "kicked out" of U.S. after ignoring order to leave](https://www.axios.com/2026/10/03/iran-un-kicked-out-rubio)
+Two members of Iran's delegation to the UN General Assembly in New York were "kicked out" of the country on Saturday, several days after they were asked to leave, a U.S. official said. "Secretary Rubio means business. Two more members of th...
 
-### [Rogue AI agents expose internet's frail foundation](https://www.axios.com/2026/10/03/rogue-ai-agents-internet-defenses)
-AI agents don't need to invent new ways to hack the internet to overwhelm its defenses. They just need to speed-run the ones humans already use.Why it matters: Agents are proving they can automate basic hacking techniques at a speed and sca...
+### [Yemeni and Saudi forces launch counteroffensive against the Houthis](https://www.axios.com/2026/10/04/yemen-saudi-houthis-counteroffensive)
+Yemeni government forces backed by Saudi Arabia launched a counteroffensive against the Houthis on Sunday in an effort to win back territory from the rebel group, the head of Yemen's presidential council said in a speech. "We have exhausted...
 
-### [Trump promises $100 checks for 20 million seniors for Medicare](https://www.axios.com/2026/10/03/trump-medicare-100-seniors-improvement-fund)
-President Trump late Friday night said the administration would send just under $100 to more than 20 million senior citizens to help pay for Medicare benefits.Why it matters: A month before the midterm, the president is adding another rough...
+### [New York has a socialist mayor. Los Angeles may be next](https://www.axios.com/2026/10/04/la-nyc-south-asian-immigrant-socialist-mayors)
+LOS ANGELES — Voters could make history next month by giving the two largest U.S. cities something in common: South Asian immigrant democratic socialist mayors.Why it matters: Such a pairing would capture two forces reshaping urban America ...
 
 
 ## The Points Guy (Latest Offers)
+### [Deal alert: Points and miles travel deals for October 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
+Save, maximize and earn points and miles on various travel purchases this September
+
 ### [Amazon Prime members can save 20 cents per gallon on gas every Friday through January](https://thepointsguy.com/deals/amazon-prime-earnify-gas-savings/)
 Amazon Prime members can save 20 cents per gallon of gas purchased by filling up on Fridays from October through January.
 
