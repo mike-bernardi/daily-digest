@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 09, 2026
+# 🌅 My Daily Briefing - October 10, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,19 +10,19 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [JD Vance says he won't watch livestream execution of Fort Hood shooter](https://www.axios.com/2026/10/09/jd-vance-fort-hood-shooter-livestream-execution)
-Vice President JD Vance said Friday he won't watch a potential livestream of the convicted Fort Hood shooter's execution.Why it matters: Vance questioned whether the execution would actually be public but joined a small chorus of Republican...
+### [Christa Pike left the hospital and returned to Tennessee prison after failed lethal injection](https://www.axios.com/local/nashville/2026/10/10/christa-pike-hospital-failed-lethal-injection-tennessee)
+Tennessee inmate Christa Pike was released from the hospital and is back in prison more than a week after she survived the state's attempt to execute her by lethal injection, her attorneys said Saturday.The big picture: The failed execution...
 
-### [DHS faces blowback over its attack on a Democratic House candidate](https://www.axios.com/2026/10/09/dhs-ice-stelson-democrat-congress-pennsylvania)
-The Department of Homeland Security is coming under fire for publicly attacking Democratic congressional candidate Janelle Stelson less than a month before the midterm election.Why it matters: The Stelson campaign is threatening a lawsuit o...
+### [The big unknown behind Democrats' polling leads](https://www.axios.com/2026/10/10/poll-democratic-wave-questions-oversampling-gop)
+Poll after poll spells trouble for GOP candidates — in purple states and deep-red ones alike — but while Democrats see a blue wave coming, some Republicans see a polling mirage.Why it matters: Pollsters worry they're flying partly blind. Ev...
 
-### [The surprising post-pandemic drop in income inequality](https://www.axios.com/2026/10/09/income-biden-pandemic-inflation)
-Data: Federal Reserve Survey of Consumer Finances; Chart: Neil Irwin/AxiosMiddle- and lower-earners' inflation-adjusted incomes rose during the Biden years — but high earners saw their incomes fall.That's a surprising finding from one of th...
+### [Hegseth's public execution plan meets the age of viral violence](https://www.axios.com/2026/10/10/hegseth-public-execution-nidal-hasan)
+Defense Secretary Pete Hegseth's announcement that the Fort Hood shooter's execution will be livestreamed reflects a shift toward putting raw, real-world violence on display for unlimited audiences.Why it matters: The Trump administration h...
 
 
 ## The Points Guy (Latest Offers)
-### [Hilton Honors best-ever points sale: Get a 120% bonus when you buy points](https://thepointsguy.com/deals/hilton-best-ever-buy-points-promotion/)
-Hilton Honors launched a limited-time offer to earn 120% bonus points when you buy points. Is this best-ever promotion worth it?
+### [Deal alert: Points and miles travel deals for October 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
+Save, maximize and earn points and miles on various travel purchases this October
 
 
 ## 🎭 Top Chicago Happenings
