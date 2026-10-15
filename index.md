@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 14, 2026
+# 🌅 My Daily Briefing - October 15, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Social Security recipients will see rise in monthly payments next year](https://www.axios.com/2026/10/14/social-security-cola-inflation)
-Data: Social Security Administration; Chart: Neil Irwin/AxiosSocial Security recipients will see the largest rise in their monthly payments in four years in January, with a 3.6% cost-of-living adjustment.Driving the news: The Social Securit...
+### [DOJ gave California a voter list, a 48-hour deadline — and a threat of court action](https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots)
+The Trump administration is threatening emergency court action unless California officials investigate potential ineligible voters within 48 hours and set aside ballots from anyone whose citizenship they cannot verify,  according to two let...
 
-### [Inflation heats up as gas prices surge](https://www.axios.com/2026/10/14/cpi-september-inflation-trump)
-Data: Bureau of Labor Statistics; Chart: Courtenay Brown/AxiosU.S. inflation picked up in September as soaring energy prices added to already stubborn price pressures, the Labor Department said on Wednesday.Why it matters: The latest Consum...
+### [America's wits' end election approaches](https://www.axios.com/2026/10/15/americas-wits-end-election-approaches)
+Data: AP-NORC; Chart: Avery Lotz/AxiosA quartet of polls out this week carry a stark message: Americans feel disgruntled, dizzy and down on the man in the White House.Why it matters: The vibes going into the midterms are bleak, with a large...
 
-### [Apple bets AI can finally make us want a smart home](https://www.axios.com/2026/10/14/apple-ai-hardware-smart-display-homeview)
-Apple's big new hardware bet for the AI era is here, and it's a...smart display?Why it matters: Cue the time machine and let's head back to 2014, when Amazon's Alexa shocked the tech world and led us to imagine a Jetsons-style home would be...
+### [Trump says Fort Hood shooter's execution will not be livestreamed](https://www.axios.com/2026/10/15/trump-hegseth-fort-hood-execution-livestream)
+President Trump said in a Thursday Truth Social post the execution of the convicted Fort Hood shooter by firing squad will not be live-streamed.The big picture: The president's post walks back an idea that Defense Secretary Pete Hegseth pit...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [World of Hyatt, Air Canada launch new elite status challenge and double-dipping offers](https://thepointsguy.com/news/world-of-hyatt-aeroplan-status-match-points-offers/)
-World of Hyatt and Air Canada Aeroplan are offering new perks, including an elite status challenge and the chance to earn bonus points on eligible Hyatt stays.
+### [The Amex Platinum isn't just for you: How to maximize its benefits for your family](https://thepointsguy.com/credit-cards/maximize-amex-platinum-for-family/)
+The Amex Platinum isn't just for luxury travelers. Discover how families can maximize its lounge access, hotel perks, statement credits and more.
 
-### [Have the Venture X Business? You can now earn a $500 Capital One Business Travel credit with qualifying spend](https://thepointsguy.com/news/venture-x-business-earn-500-capital-one-business-travel-credit/)
-If you have the Capital One Venture X Business, you may be eligible for an up to $500 credit when booking through Capital One Business Travel.
+### [Southwest overhauls Rapid Rewards with new elite tiers, credit card changes and companion passes](https://thepointsguy.com/news/southwest-airlines-rapid-rewards-overhaul/)
+Southwest Airlines is revamping its Rapid Rewards loyalty program and elite status tiers amid a major transformation at America's fourth-largest airline.
 
-### [Which Princess Alaska cruisetour is right for you? A complete guide to all your options](https://thepointsguy.com/cruise/princess-alaska-cruise-tours/)
-Princess is a leader in Alaska trips that combine a cruise and overland travel
+### [United Explorer Card review: Premium perks without a premium fee](https://thepointsguy.com/credit-cards/reviews/united-explorer-credit-card-review/)
+The United Explorer Card is one of the best mid-tier airline cards, thanks to its perks and ability to earn bonus miles. Here's what to know before applying.
 
 
 ## 🎭 Top Chicago Happenings
