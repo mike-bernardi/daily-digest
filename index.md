@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 15, 2026
+# 🌅 My Daily Briefing - October 16, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [DOJ gave California a voter list, a 48-hour deadline — and a threat of court action](https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots)
-The Trump administration is threatening emergency court action unless California officials investigate potential ineligible voters within 48 hours and set aside ballots from anyone whose citizenship they cannot verify,  according to two let...
+### [Warsh signals steady Fed outlook despite inflation jump](https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates)
+Federal Reserve chairman Kevin Warsh said Friday that the economy has largely performed as expected since September's rate hike, hinting that little has changed in the central bank's outlook.Why it matters: The Fed is weighing another inter...
 
-### [America's wits' end election approaches](https://www.axios.com/2026/10/15/americas-wits-end-election-approaches)
-Data: AP-NORC; Chart: Avery Lotz/AxiosA quartet of polls out this week carry a stark message: Americans feel disgruntled, dizzy and down on the man in the White House.Why it matters: The vibes going into the midterms are bleak, with a large...
+### [Democrats post "mind-blowing" numbers ahead of 2026 midterms](https://www.axios.com/2026/10/16/democrats-midterms-fundraising-senate)
+Data: FEC, Axios research. Chart: Noah Bressner/AxiosIf money is momentum, Democratic Senate candidates are poised for a monumental Election Day."Oh my god, holy crap," said Sen. Bernie Moreno (R-Ohio) when informed of Texas Democratic Sena...
 
-### [Trump says Fort Hood shooter's execution will not be livestreamed](https://www.axios.com/2026/10/15/trump-hegseth-fort-hood-execution-livestream)
-President Trump said in a Thursday Truth Social post the execution of the convicted Fort Hood shooter by firing squad will not be live-streamed.The big picture: The president's post walks back an idea that Defense Secretary Pete Hegseth pit...
+### [Geothermal finds rare political sweet spot amid AI boom](https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom)
+Geothermal — power drawn from the Earth's natural heat — is pulling off something remarkable in today's hyperpolarized America: Winning fans across the political spectrum.Why it matters: The bipartisan appeal, combined with surging electric...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [The Amex Platinum isn't just for you: How to maximize its benefits for your family](https://thepointsguy.com/credit-cards/maximize-amex-platinum-for-family/)
-The Amex Platinum isn't just for luxury travelers. Discover how families can maximize its lounge access, hotel perks, statement credits and more.
+### [Waikiki's iconic 'Pink Palace' is getting a major makeover for its 100th birthday](https://thepointsguy.com/news/royal-hawaiian-renovation/)
+The Royal Hawaiian, Waikiki’s “Pink Palace of the Pacific,” is getting a major remodel before its 100th birthday in February 2027. Here’s what to know.
 
-### [Southwest overhauls Rapid Rewards with new elite tiers, credit card changes and companion passes](https://thepointsguy.com/news/southwest-airlines-rapid-rewards-overhaul/)
-Southwest Airlines is revamping its Rapid Rewards loyalty program and elite status tiers amid a major transformation at America's fourth-largest airline.
+### [The definitive guide to American Express Global Dining Access by Resy](https://thepointsguy.com/credit-cards/american-express-global-dining-collection/)
+This exclusive program will help you get reservations and special perks at some of the top restaurants in the world.
 
-### [United Explorer Card review: Premium perks without a premium fee](https://thepointsguy.com/credit-cards/reviews/united-explorer-credit-card-review/)
-The United Explorer Card is one of the best mid-tier airline cards, thanks to its perks and ability to earn bonus miles. Here's what to know before applying.
+### [Fast-growing Viking adds 7 more new ships from Europe to Egypt](https://thepointsguy.com/cruise/viking-river-ship-naming-2026/)
+The 29-year-old cruise company now has 109 river, ocean and expedition vessels in its fleet.
 
 
 ## 🎭 Top Chicago Happenings
