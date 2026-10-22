@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 21, 2026
+# 🌅 My Daily Briefing - October 22, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [The oil market's 2027 relief hopes are fading fast](https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking)
-Data: FactSet; Chart: Courtenay Brown/AxiosTraders are betting that oil prices will remain elevated for longer than they anticipated just weeks ago, threatening to prolong the inflationary pressures that businesses and consumers have weathe...
+### [Trump ordered to sit for deposition in $10 billion BBC lawsuit](https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline)
+A federal judge on Thursday ordered President Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC over an edit of one of his speeches that the president's lawyers say was misleading.Why it matters:...
 
-### [Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee](https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace)
-Russian President Vladimir Putin told White House envoy Steve Witkoff on Wednesday that he "agrees in principle" resuming trilateral peace talks between Russia, Ukraine and the U.S. to end the war, the Kremlin said.Why it matters: The White...
+### [Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.](https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy)
+The U.S. Embassy in Canada accused Canadian leaders of "openly" describing plans to "influence American politics," doubling down on Ambassador Pete Hoekstra's claims of potential election interference.Why it matters: The accusation further ...
 
-### ["I am giving you money!" Nvidia's CEO wants every country to build its own AI](https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble)
-Nvidia CEO Jensen Huang is crisscrossing Europe with a multibillion-dollar checkbook and a grand ambition: Make his company the indispensable backbone of the global AI economy.Why it matters: As fears of an AI bubble rattle Wall Street, Hua...
+### [Permitting deal draws lobbying blitz as hurdles mount](https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles)
+The fragile Senate permitting deal is a major priority across the energy industry, per newly filed lobbying disclosures.Why it matters: The filings reveal behind-the-scenes efforts by powerful interests and companies representing oil and ga...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [Why transferable rewards are worth more than airline miles and hotel points](https://thepointsguy.com/loyalty-programs/why-transferable-points-worth-more/)
-Why are transferable rewards worth more than airline miles and hotel points? Learn how flexibility, transfer partners and bonuses boost their value.
+### [Just in: Delta confirms Medallion status requirements for 2027](https://thepointsguy.com/news/delta-medallion-2027-requirements/)
+Delta Air Lines plans to leave Medallion status qualification requirements unchanged in 2027, following shakeups at two major competitors.
 
-### [Forget the front desk: Hilton Honors launches in-app points redemptions for digital checkout](https://thepointsguy.com/news/hilton-honors-pay-with-points-app/)
-Hilton Honors has launched an in-app Pay with Points, allowing elite members to cover eligible hotel charges in the app. Here's how it works and who qualifies.
+### [A beginners guide to visiting Ketchikan by cruise ship](https://thepointsguy.com/cruise/beginners-guide-visiting-ketchikan-cruise-ship/)
+Ketchikan is the southernmost city in Alaska and it offers plenty to see and do.
 
-### [A beginners guide to visiting Skagway by cruise ship](https://thepointsguy.com/cruise/skagway-guide-for-cruise-passengers/)
-Here’s everything you should see and do in Skagway to make it a memorable stop on your Alaska cruise itinerary.
+### [Everything you need to know about credit card merchant offers](https://thepointsguy.com/credit-cards/credit-card-merchant-offers/)
+Compare Amex Offers, Chase Offers and other credit card merchant deals, plus learn how to stack discounts with shopping portals to save even more.
 
 
 ## 🎭 Top Chicago Happenings
