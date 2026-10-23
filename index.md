@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 22, 2026
+# 🌅 My Daily Briefing - October 23, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump ordered to sit for deposition in $10 billion BBC lawsuit](https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline)
-A federal judge on Thursday ordered President Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC over an edit of one of his speeches that the president's lawyers say was misleading.Why it matters:...
+### [DOJ sues to block Alaska election results if GOP incumbent loses](https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan)
+The Trump administration sued Alaska on Thursday to block certification of election results if incumbent Republican Sen. Dan Sullivan loses. Why it matters: The race between incumbent Sullivan, Democrat Mary Peltola, and retired teacher Dan...
 
-### [Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.](https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy)
-The U.S. Embassy in Canada accused Canadian leaders of "openly" describing plans to "influence American politics," doubling down on Ambassador Pete Hoekstra's claims of potential election interference.Why it matters: The accusation further ...
+### [Mysterious "flying triangle" sighting leads new government release of UFO documents](https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle)
+On a recent evening near a secure U.S. facility, three federal agents saw a flying object they couldn't identify: a large "matte black triangle" that moved as fast as a fighter jet, made no sound and then disappeared, according to FBI and D...
 
-### [Permitting deal draws lobbying blitz as hurdles mount](https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles)
-The fragile Senate permitting deal is a major priority across the energy industry, per newly filed lobbying disclosures.Why it matters: The filings reveal behind-the-scenes efforts by powerful interests and companies representing oil and ga...
+### [Wall Street prepares for AI's "day after"](https://www.axios.com/2026/10/23/ai-catastrophe-wall-street)
+America's largest banks are working to prevent AI worst-case scenarios. But they're also preparing for the "day after" a catastrophe, Axios has learned.Why it matters:  America's financial institutions have joined the largest AI companies i...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [Just in: Delta confirms Medallion status requirements for 2027](https://thepointsguy.com/news/delta-medallion-2027-requirements/)
-Delta Air Lines plans to leave Medallion status qualification requirements unchanged in 2027, following shakeups at two major competitors.
+### [A beginners guide to visiting Sitka, Alaska, by cruise ship](https://thepointsguy.com/cruise/sitka-port-guide/)
+Sitka, Alaska, is attracting more cruise ships than ever before, so here's what to expect during your visit.
 
-### [A beginners guide to visiting Ketchikan by cruise ship](https://thepointsguy.com/cruise/beginners-guide-visiting-ketchikan-cruise-ship/)
-Ketchikan is the southernmost city in Alaska and it offers plenty to see and do.
+### [American Airlines baggage fees and how to avoid paying them](https://thepointsguy.com/airline/american-airlines-baggage-fees/)
+Here's what you need to know about the American Airlines baggage policy, including American Airlines baggage weight limits and carry-on guidelines.
 
-### [Everything you need to know about credit card merchant offers](https://thepointsguy.com/credit-cards/credit-card-merchant-offers/)
-Compare Amex Offers, Chase Offers and other credit card merchant deals, plus learn how to stack discounts with shopping portals to save even more.
+### [How to double-, triple- or even quadruple-dip on dining rewards](https://thepointsguy.com/loyalty-programs/stack-dining-rewards/)
+Stack credit card rewards with restaurant loyalty programs, reservation rewards and card-linked offers. Here’s how to earn more on every meal.
 
 
 ## 🎭 Top Chicago Happenings
