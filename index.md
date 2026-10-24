@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 23, 2026
+# 🌅 My Daily Briefing - October 24, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,19 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [DOJ sues to block Alaska election results if GOP incumbent loses](https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan)
-The Trump administration sued Alaska on Thursday to block certification of election results if incumbent Republican Sen. Dan Sullivan loses. Why it matters: The race between incumbent Sullivan, Democrat Mary Peltola, and retired teacher Dan...
+### [As Israeli election looms, Trump advisers see opportunity beyond Netanyahu](https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers)
+President Trump has endorsed Benjamin Netanyahu in Tuesday's Israeli election, but some of his advisers see opportunity for his Middle East agenda in a government led by someone else, U.S. officials tell Axios.Why it matters: Trump has neve...
 
-### [Mysterious "flying triangle" sighting leads new government release of UFO documents](https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle)
-On a recent evening near a secure U.S. facility, three federal agents saw a flying object they couldn't identify: a large "matte black triangle" that moved as fast as a fighter jet, made no sound and then disappeared, according to FBI and D...
+### [Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says](https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed)
+The speed of the Elon Musk-owned satellite system used by the Ukrainian military has been fully restored after two weeks of restrictions, the country's ministry of defense said in a statement on Saturday. Why it matters: The restrictions li...
 
-### [Wall Street prepares for AI's "day after"](https://www.axios.com/2026/10/23/ai-catastrophe-wall-street)
-America's largest banks are working to prevent AI worst-case scenarios. But they're also preparing for the "day after" a catastrophe, Axios has learned.Why it matters:  America's financial institutions have joined the largest AI companies i...
+### [Washington's message to AI execs: please shut up](https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability)
+Washington has always viewed Silicon Valley as culturally strange. But the current crop of AI leaders is becoming a monumental political liability, lawmakers and White House advisers tell Axios.Why it matters: Even pro-AI government officia...
 
 
 ## The Points Guy (Latest Offers)
-*(No dedicated deals posts in the current feed — showing latest TPG stories)*
-
-### [A beginners guide to visiting Sitka, Alaska, by cruise ship](https://thepointsguy.com/cruise/sitka-port-guide/)
-Sitka, Alaska, is attracting more cruise ships than ever before, so here's what to expect during your visit.
-
-### [American Airlines baggage fees and how to avoid paying them](https://thepointsguy.com/airline/american-airlines-baggage-fees/)
-Here's what you need to know about the American Airlines baggage policy, including American Airlines baggage weight limits and carry-on guidelines.
-
-### [How to double-, triple- or even quadruple-dip on dining rewards](https://thepointsguy.com/loyalty-programs/stack-dining-rewards/)
-Stack credit card rewards with restaurant loyalty programs, reservation rewards and card-linked offers. Here’s how to earn more on every meal.
+### [Deal alert: Points and miles travel deals for October 2026](https://thepointsguy.com/deals/points-and-miles-travel-deals/)
+Save, maximize and earn points and miles on various travel purchases this October
 
 
 ## 🎭 Top Chicago Happenings
