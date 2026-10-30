@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - October 29, 2026
+# 🌅 My Daily Briefing - October 30, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [After losing his majority, Netanyahu tries to delegitimize election results](https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results)
-After his far-right coalition lost 11 seats in the election, Israeli Prime Minister Benjamin Netanyahu is trying to discredit the results by claiming there was mass voting fraud in Arab communities. Why it matters: Netanyahu appears to be t...
+### [Pope Leo XIV becomes first pope to vote in U.S. election](https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms)
+Pope Leo XIV voted in the 2026 Illinois midterm elections using a mail-in ballot, the Vatican confirmed Friday, becoming the first sitting pope known to vote in an American election.Why it matters: The pontiff, an American citizen, may be t...
 
-### [Exclusive: How the permitting bill could change the  energy landscape](https://www.axios.com/2026/10/29/permitting-bill-energy-landscape)
-Data: Resources for the Future; Note: Central RFF scenario ; Chart: Ben Geman/AxiosThe Senate permitting plan would cut emissions from power plants in the near term and help keep electricity prices down, a new analysis finds.Why it matters:...
+### [Democrats see AI hate as winning issue heading into 2028](https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging)
+Democrats weighing 2028 presidential bids are piling onto the AI hate wave in their messaging, per an analysis shared exclusively with Axios.  Why it matters: Democrats are turning AI anxiety into a political rallying cry ahead of 2028, whi...
 
-### [Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe](https://www.axios.com/2026/10/28/alaska-senate-dan-sullivan-trump-peltola-spoiler-scheme)
-President Trump accused Democrats and Mary Peltola's campaign of fraud and perjury Wednesday after the New York Times reported that Peltola aides helped recruit another candidate named Dan Sullivan.Why it matters: The revelations add a new ...
+### [Why energy will have a starring role if Democrats take Congress](https://www.axios.com/2026/10/30/energy-democrats-congress-midterms)
+President Trump's energy policies and investment deals could become major targets of Democratic investigations if the party wins control of either chamber of Congress.Why it matters: Congressional probes could expose new details about the a...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [A hotel with a thrill ride? Hyatt is taking Times Square to new heights](https://thepointsguy.com/news/standard-x-times-square/)
-Hyatt is opening a massive 1,800-room StandardX hotel in Times Square with a rooftop pool, observation deck and free-fall thrill ride.
+### [How to earn and use an IHG annual lounge membership](https://thepointsguy.com/loyalty-programs/ihg-lounge-access-milestone-reward/)
+Learn how to earn an IHG annual lounge membership through Milestone Rewards, which hotels offer lounge access and whether the benefit is worth choosing.
 
-### [Capital One Venture X Business celebrates 3 years with an offer worth up to $4,300 in travel value](https://thepointsguy.com/credit-cards/capital-one-venture-x-business-anniversary-offer/)
-Capital One Venture X Business is celebrating its third anniversary with a limited-time offer worth up to $4,300 in travel value for new cardholders.
+### [Am I eligible for the Chase Sapphire Preferred's 75,000-point bonus?](https://thepointsguy.com/credit-cards/chase-sapphire-preferred-bonus-eligibility/)
+The Chase Sapphire Preferred Card is a popular travel rewards card with a valuable welcome offer. But you'll want to make sure you're eligible before applying.
 
-### [Amex and Hilton launch first Hilton Honors credit card in Canada](https://thepointsguy.com/news/amex-and-hilton-launch-first-hilton-honors-credit-card-in-canada/)
-Amex and Hilton launch Canada's first Hilton Honors credit card with Gold status, an up to 70,000-point welcome offer and a free night reward. Here's what to know.
+### [12 best things to do in Icy Strait Point and Hoonah, Alaska, on a cruise](https://thepointsguy.com/cruise/things-to-do-icy-strait-point-hoonah-alaska-cruise/)
+Whether your cruise ship stops for an entire day or just an evening, here are the top things to do in Icy Strait Point and Hoonah, Alaska.
 
 
 ## 🎭 Top Chicago Happenings
