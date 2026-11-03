@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - November 02, 2026
+# 🌅 My Daily Briefing - November 03, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,35 +10,35 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump to Axios: "No rush" to decide on bombing Iran again](https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war)
-President Trump told Axios in a phone interview Monday he's "in no rush" to decide whether to resume fighting in Iran.  Why it matters: The midterm elections have been seen as an inflection point for Trump on whether to unleash a massive bo...
+### [Voting machine chaos hits key House battleground](https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue)
+Voting machines across New York's Westchester County are rejecting paper ballots on Election Day, raising concerns about potential delays in one of the nation's most competitive House races.Why it matters: Results could be delayed for one o...
 
-### [Trump pre-election pitch: Reflecting Pool, pipes and a new promenade](https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech)
-President Trump extolled his administration's Reflecting Pool project, dug up debunked claims of vandalism and applauded the new White House helipad in a Monday pre-Election Day speech.The big picture: Trump's deep focus on remaking the nat...
+### [States take steps to secure vote after federal pullback](https://www.axios.com/2026/11/03/2026-election-security-states)
+State officials have largely taken securing the 2026 midterm elections into their own hands after nearly two years of federal program and funding cuts during the second Trump administration.Why it matters: The reduction in federal support h...
 
-### [Scoop: Senate GOP makes massive bet on streaming](https://www.axios.com/2026/11/02/senate-republicans-super-pac-slf-streaming-social)
-The top Senate GOP super PAC has nearly tripled its spending on streaming and social media platforms this election cycle to more than $200 million, Axios has learned.Why it matters: In a record cycle for ad spending, more political money is...
+### [Prediction markets have a lot riding on the blue wave](https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats)
+Prediction markets like Kalshi and Polymarket officially don't care which side of a bet wins.There is no "house." They get their cut either way. It's a business model that's attracted billions of VC dollars.Yes, but: Kalshi and Polymarket s...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [How I earned over 3,800 points and miles buying $180 worth of sports tickets with my Freedom Flex](https://thepointsguy.com/credit-cards/rove-paze-freedom-flex-triple-stack-sports-tickets/)
-Here's how I used my Freedom Flex, Rove and Paze to earn thousands of travel rewards on a single sports ticket purchase.
+### [United's newest international destination: Chihuahua, Mexico](https://thepointsguy.com/news/united-returns-to-chihuahua/)
+United Airlines will return to Chihuahua in northern Mexico from its Houston hub next spring.
 
-### [6 ways to maximize the Capital One Venture Rewards as a beginner](https://thepointsguy.com/credit-cards/maximize-capital-one-venture-rewards-beginner/)
-Learn six beginner-friendly ways to maximize the Capital One Venture Rewards, from earning miles on everyday purchases to redeeming rewards for travel.
+### [Highest-ever offer: Earn 75,000 miles with a Citi / AA Business card](https://thepointsguy.com/credit-cards/citi-aadvantage-current-offers/)
+Citi's AAdvantage credit card lineup comes with solid welcome bonus offers for more miles to use on American Airlines flights. Here's what to know.
 
-### [Delta expands again in Austin focus city, adds new route to Walmart's backyard](https://thepointsguy.com/news/delta-air-lines-new-route-austin-northwest-arkansas/)
-Delta Air Lines is growing again in Austin, Texas. The carrier just added nonstop service to Northwest Arkansas, home to Walmart's headquarters.
+### [Why bidding on a Hyatt Find experience auction might be the most valuable way to redeem your World of Hyatt points](https://thepointsguy.com/news/hyatt-find-experience-auctions/)
+I went to the Laver Cup in Hyatt's Legends Club, where a member won a package worth about $6,000 for 120,000 points. Here's how Find auctions work.
 
 
 ## 🎭 Top Chicago Happenings
+### [20 holiday shows to see in Chicago this winter](https://www.choosechicago.com/blog/theater-dance/holiday-shows-chicago/)
+Featured Chicago community event.
+
 ### [How to celebrate Native American history and culture in Chicago](https://www.choosechicago.com/blog/special-events/how-to-celebrate-native-american-heritage-month-in-chicago/)
 Featured Chicago community event.
 
 ### [10 free things to do in Chicago this November](https://www.choosechicago.com/blog/free-cheap/10-free-things-to-do-in-chicago/)
-Featured Chicago community event.
-
-### [25+ things to do in Chicago this November 2026](https://www.choosechicago.com/blog/special-events/things-to-do-in-chicago-this-month/)
 Featured Chicago community event.
