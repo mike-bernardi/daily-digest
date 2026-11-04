@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - November 03, 2026
+# 🌅 My Daily Briefing - November 04, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Voting machine chaos hits key House battleground](https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue)
-Voting machines across New York's Westchester County are rejecting paper ballots on Election Day, raising concerns about potential delays in one of the nation's most competitive House races.Why it matters: Results could be delayed for one o...
+### [Key Pentagon priorities in peril after Democratic sweep](https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations)
+Tuesday's election was great for Democrats. It was bad for Defense Secretary Pete Hegseth and some of the White House's most ambitious national security projects.Why it matters: Surprise wins across the map for Democrats — including in the ...
 
-### [States take steps to secure vote after federal pullback](https://www.axios.com/2026/11/03/2026-election-security-states)
-State officials have largely taken securing the 2026 midterm elections into their own hands after nearly two years of federal program and funding cuts during the second Trump administration.Why it matters: The reduction in federal support h...
+### [Democrats' midterm gains could sideline Electoral College by 2028](https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028)
+Democrats' sweeping statehouse gains Tuesday have opened a path to effectively replacing the Electoral College with a national popular vote in time for the 2028 presidential election — without needing to amend the Constitution.Why it matter...
 
-### [Prediction markets have a lot riding on the blue wave](https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats)
-Prediction markets like Kalshi and Polymarket officially don't care which side of a bet wins.There is no "house." They get their cut either way. It's a business model that's attracted billions of VC dollars.Yes, but: Kalshi and Polymarket s...
+### [Democrats vow Trump investigations, but voters have another priority too](https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda)
+Democrats wasted no time gloating and warning the Trump administration about a pending flood of subpoenas and investigations once the 2026 midterm blue wave became clear.Why it matters: Democrats are eager to exercise their oversight powers...
 
 
 ## The Points Guy (Latest Offers)
 *(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [United's newest international destination: Chihuahua, Mexico](https://thepointsguy.com/news/united-returns-to-chihuahua/)
-United Airlines will return to Chihuahua in northern Mexico from its Houston hub next spring.
+### [How to get United Club lounge access: From credit cards to paid memberships](https://thepointsguy.com/airline/ultimate-guide-united-club-access/)
+Here's a complete look at access to United Clubs, including through credit cards, paid memberships and access based on your United MileagePlus elite status.
 
-### [Highest-ever offer: Earn 75,000 miles with a Citi / AA Business card](https://thepointsguy.com/credit-cards/citi-aadvantage-current-offers/)
-Citi's AAdvantage credit card lineup comes with solid welcome bonus offers for more miles to use on American Airlines flights. Here's what to know.
+### [Is the Venture X Business worth the $395 annual fee?](https://thepointsguy.com/news/capital-one-venture-x-business-worth-annual-fee/)
+The Venture X Business is a premium card with a $395 annual fee. This breakdown of the benefits will help you decide if you'll get enough value to justify it.
 
-### [Why bidding on a Hyatt Find experience auction might be the most valuable way to redeem your World of Hyatt points](https://thepointsguy.com/news/hyatt-find-experience-auctions/)
-I went to the Laver Cup in Hyatt's Legends Club, where a member won a package worth about $6,000 for 120,000 points. Here's how Find auctions work.
+### [Last-minute strategies for earning Delta Medallion elite status](https://thepointsguy.com/loyalty-programs/earning-delta-elite-status/)
+Tips and strategies to help you earn airline elite status with Delta.
 
 
 ## 🎭 Top Chicago Happenings
