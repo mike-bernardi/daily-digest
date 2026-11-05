@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - November 04, 2026
+# 🌅 My Daily Briefing - November 05, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,27 +10,22 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Key Pentagon priorities in peril after Democratic sweep](https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations)
-Tuesday's election was great for Democrats. It was bad for Defense Secretary Pete Hegseth and some of the White House's most ambitious national security projects.Why it matters: Surprise wins across the map for Democrats — including in the ...
+### [Black voters deliver a GOP reckoning](https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump)
+President Trump won historic levels of support from Black men in 2024. Two years later, those gains appeared to evaporate as Republicans suffered their worst midterm defeat in 50 years.Why it matters: Democrats feared the Supreme Court's de...
 
-### [Democrats' midterm gains could sideline Electoral College by 2028](https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028)
-Democrats' sweeping statehouse gains Tuesday have opened a path to effectively replacing the Electoral College with a national popular vote in time for the 2028 presidential election — without needing to amend the Constitution.Why it matter...
+### [DOJ's Harmeet Dhillon resigns](https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down)
+Harmeet Dhillon, assistant attorney general for civil rights at the Justice Department, has resigned from her role, Attorney General Todd Blanche said Thursday. Why it matters: Dhillon, who spent her tenure replacing attorneys with others m...
 
-### [Democrats vow Trump investigations, but voters have another priority too](https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda)
-Democrats wasted no time gloating and warning the Trump administration about a pending flood of subpoenas and investigations once the 2026 midterm blue wave became clear.Why it matters: Democrats are eager to exercise their oversight powers...
+### [Exit polls show young voters swinging back to Democrats after Trump's 2024 gains](https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house)
+Young voters swung so hard toward Democrats in Tuesday's midterms that it raises new doubts about whether Republicans can build a lasting coalition among Americans under 30.Why it matters: Trump's success with Gen Z voters, especially young...
 
 
 ## The Points Guy (Latest Offers)
-*(No dedicated deals posts in the current feed — showing latest TPG stories)*
+### [Amazon Prime replaces Grubhub with Uber Eats: Save up to $40](https://thepointsguy.com/deals/amazon-prime-uber-eats-benefit/)
+Amazon Prime has replaced Grubhub+ with Uber Eats. Save $20 on two qualifying orders through Nov. 18 and get $0 delivery fees on orders of $25 or more.
 
-### [How to get United Club lounge access: From credit cards to paid memberships](https://thepointsguy.com/airline/ultimate-guide-united-club-access/)
-Here's a complete look at access to United Clubs, including through credit cards, paid memberships and access based on your United MileagePlus elite status.
-
-### [Is the Venture X Business worth the $395 annual fee?](https://thepointsguy.com/news/capital-one-venture-x-business-worth-annual-fee/)
-The Venture X Business is a premium card with a $395 annual fee. This breakdown of the benefits will help you decide if you'll get enough value to justify it.
-
-### [Last-minute strategies for earning Delta Medallion elite status](https://thepointsguy.com/loyalty-programs/earning-delta-elite-status/)
-Tips and strategies to help you earn airline elite status with Delta.
+### [Atmos Rewards November Members Day: Fly to Venice, Italy, from 25,000 points and Hawaii from 11,500 points](https://thepointsguy.com/deals/alaska-airlines-global-getaways-promotion/)
+Atmos Rewards November Members Day brings Global Getaways to Venice, Italy, starting at 25,000 points. You can also redeem points for new unique experiences.
 
 
 ## 🎭 Top Chicago Happenings
