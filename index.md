@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - November 07, 2026
+# 🌅 My Daily Briefing - November 08, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,14 +10,14 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [Trump's "war-time consigliere" and the Miller Doctrine](https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style)
-Stephen Miller is no Susie Wiles: He believes in almost limitless presidential power, considers the Democratic Party an extremist organization, and dreams of ruthless crackdowns on immigration and foreign adversaries.Why it matters: Miller,...
+### [Trump's AG won't rule out prosecuting Democrats who threaten to investigate](https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight)
+Attorney General Todd Blanche refused Sunday to rule out prosecuting Democratic lawmakers who say they'll investigate Trump officials, a day after President Trump ordered the Justice Department to probe lawmakers.Why it matters: The confron...
 
-### [Vance leads behind-the-scenes push for new Iran deal](https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal)
-Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to two sources with knowledge of the matter.Why it matters: Van...
+### [Behind the Curtain: Texas is the #1 story of America](https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026)
+No state looms larger, more dominant or more instructive about the future of American politics, governance and AI than Texas.Why it matters: Texas is suddenly — and unexpectedly — the American story. It's the battleground and proving ground...
 
-### [Trump replaces chief of staff Susie Wiles with Stephen Miller](https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff)
-Angered over his midterm losses, President Trump announced Friday he was replacing Susie Wiles as White House chief of staff with longtime adviser Stephen Miller.Why it matters: Trump is trading one of his few moderating forces with one of ...
+### [House poised to impeach Pete Hegseth after GOP midterm defeat](https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie)
+House Republican leaders are bracing for enough GOP defections to impeach Defense Secretary Pete Hegseth when the measure comes to a vote this week. Why it matters: Republicans who were defeated in Tuesday's election-night bloodbath have li...
 
 
 ## The Points Guy (Latest Offers)
