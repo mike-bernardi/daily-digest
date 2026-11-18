@@ -1,6 +1,6 @@
 <style>body{background-color:#0d1117!important;color:#c9d1d9!important;padding:20px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;}a{color:#58a6ff!important;text-decoration:none;}a:hover{text-decoration:underline;}h1,h2,h3{color:#f0f6fc!important;}h1{border-bottom:1px solid #21262d!important;padding-bottom:10px;}h2{margin-top:30px;border-bottom:1px solid #21262d!important;padding-bottom:5px;}h3{margin-top:20px;font-size:1.15em;}</style>
 
-# 🌅 My Daily Briefing - November 17, 2026
+# 🌅 My Daily Briefing - November 18, 2026
 
 Your private, automated dashboard sorted dynamically by traffic and popular interaction.
 
@@ -10,25 +10,27 @@ Your private, automated dashboard sorted dynamically by traffic and popular inte
 ## Axios (Trending News)
 *(Most Popular module unavailable — showing latest stories instead)*
 
-### [FAA pauses tech upgrade linked to nationwide ground stop](https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop)
-The Federal Aviation Administration is halting the installation of new routers following Friday's nearly five-hour nationwide ground stop, the agency confirmed Tuesday.Why it matters: The technology rollout is suspected to be connected to m...
+### [Trust, but prepare: How to make sense of AI's age of upheaval](https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare)
+Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air travel, banks and work products like Microsoft Outlook. The outages seem genuinely scary and related.So what the hell is going o...
 
-### [What is a dirty bomb and how dangerous is the weapon](https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon)
-President Trump warned Iran against orchestrating a "dirty bomb" attack in Washington, D.C., though the White House says there are no credible threats.The big picture: Unlike a nuclear weapon, a "dirty bomb" uses common explosives to scatte...
+### [The senators who could join Van Hollen's insurgency against Schumer](https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader)
+Sen. Chris Van Hollen is picking up endorsements in his challenge to Chuck Schumer for Senate Democratic leader.Why it matters: The leadership fight exposes divisions within the Democratic Party days after its sweeping midterm victory, with...
 
-### [Scammers are sending fake emails to people worried about Nvidia's stock](https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails)
-Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware.Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailo...
+### [Trump to meet Putin in China amid renewed push to end Ukraine war](https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine)
+President Trump will hold a one-on-one meeting with Russian President Vladimir Putin on Thursday during the trilateral summit in China, a U.S. official said. Why it matters: The meeting in Shenzhen will take place as Trump is making another...
 
 
 ## The Points Guy (Latest Offers)
-### [The best Black Friday, Cyber Monday and Travel Tuesday hotel deals in 2026](https://thepointsguy.com/hotel/deals/black-friday-cyber-monday-hotel-deals/)
-This is a great time of year to take advantage of deals from many hotel brands and booking services. Here are a few of our favorites.
+*(No dedicated deals posts in the current feed — showing latest TPG stories)*
 
-### [The best all-inclusive Black Friday deals](https://thepointsguy.com/hotel/deals/best-all-inclusive-black-friday-deals/)
-Take advantage of Black Friday deals and book an all-inclusive stay for excellent value at one of these all-inclusive resorts.
+### [14 tricks to getting the most value from your cruise vacations](https://thepointsguy.com/cruise/get-the-most-value-from-your-cruise/)
+Squeeze every bit of value out of those hard-earned vacation dollars with 14 tricks to help you heap on the cruise value.
 
-### [Away's 'biggest' sale of the year: Get 25% off everything](https://thepointsguy.com/deals/away-black-friday-sale/)
-Away's Cyber Week sale includes 25% off of almost everything it sells from November 16 through December 1, 2026.
+### [Who's eligible for United credit cards? A guide to Chase's application rules](https://thepointsguy.com/credit-cards/united-credit-card-eligibility/)
+Want a United credit card? Here's how Chase's 5/24 rule, 24-month bonus restriction and card-specific eligibility terms work.
+
+### [What makes the Amex Platinum stand out among premium rewards cards?](https://thepointsguy.com/credit-cards/what-makes-amex-platinum-stand-out/)
+See how the Amex Platinum compares with other premium cards on lounge access, hotel perks, rewards and credits — and where it falls short.
 
 
 ## 🎭 Top Chicago Happenings
